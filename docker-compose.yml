@@ -17,5 +17,7 @@ services:
     volumes:
       - vlab:/var/www/html
       - ./lab:/root/lab
+      - ./zshrc:/root/.zshrc
+      - ./zsh_history:/root/.zsh_history
     networks:
       - nlab

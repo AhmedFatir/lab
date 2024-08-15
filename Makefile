@@ -2,7 +2,6 @@ all: build run
 
 build:
 	@clear
-	@cp /Users/afatir/.zsh_history zsh_history
 	@docker-compose build 
 
 run:
