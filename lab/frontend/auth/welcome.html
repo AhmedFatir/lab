@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <div class="auth-container">
+        <h2>Welcome, {{ user.first_name }} {{ user.last_name }}!</h2>
+        <p>Username: {{ user.username }}</p>
+        <p>Email: {{ user.email }}</p>
+        <!-- Additional user info or links to other parts of the site -->
+    </div>
+</body>
+</html>

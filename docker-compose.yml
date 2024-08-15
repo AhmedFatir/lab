@@ -1,0 +1,21 @@
+version: '3.8'
+
+networks:
+  nlab:
+    name: nlab
+volumes:
+  vlab:
+    name: vlab
+
+services:
+  lab:
+    image: ilab
+    container_name: clab
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - vlab:/var/www/html
+      - ./lab:/root/lab
+    networks:
+      - nlab

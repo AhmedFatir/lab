@@ -1,0 +1,3843 @@
+: 1719897004:0;osascript -e 'tell application "loginwindow" to  «event aevtrlgo»'
+: 1719897004:0;cl
+: 1719897004:0;cddd
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;rm Screen\ Shot\ 2024-04-23\ at\ 8.22.37\ AM.png
+: 1719897004:0;ls
+: 1719897004:0;gcl https://github.com/AhmedFatir/piscine.git
+: 1719897004:0;cd piscine
+: 1719897004:0;l
+: 1719897004:0;rm -rf .git
+: 1719897004:0;./EXAMES
+: 1719897004:0;l
+: 1719897004:0;./exam00
+: 1719897004:0;l
+: 1719897004:0;..
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;find . -type d -name ".git"
+: 1719897004:0;cd
+: 1719897004:0;find . -type d -name ".git"
+: 1719897004:0;cdd
+: 1719897004:0;l
+: 1719897004:0;./piscine
+: 1719897004:0;ls
+: 1719897004:0;code -r .
+: 1719897004:0;cdd
+: 1719897004:0;rm -rf piscine
+: 1719897004:0;ls
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;gcl https://github.com/AhmedFatir/piscine.git
+: 1719897004:0;cd piscine
+: 1719897004:0;code .
+: 1719897004:0;PUSH
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/CPP-Modules.git
+: 1719897004:0;code CPP-Modules
+: 1719897004:0;l
+: 1719897004:0;PUSH
+: 1719897004:0;..
+: 1719897004:0;l
+: 1719897004:0;rmf CPP-Modules
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/CPP-Modules.git
+: 1719897004:0;code CPP-Modules
+: 1719897004:0;cl
+: 1719897004:0;./Module\ 07/ex00
+: 1719897004:0;make
+: 1719897004:0;./whatever
+: 1719897004:0;make fclean
+: 1719897004:0;../../Module\ 08
+: 1719897004:0;./ex00
+: 1719897004:0;make
+: 1719897004:0;./Easyfind
+: 1719897004:0;make
+: 1719897004:0;./Easyfind
+: 1719897004:0;make
+: 1719897004:0;./Easyfind
+: 1719897004:0;make
+: 1719897004:0;./Easyfind
+: 1719897004:0;make fclean
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;..
+: 1719897004:0;l
+: 1719897004:0;PUSH
+: 1719897004:0;..
+: 1719897004:0;ls
+: 1719897004:0;rmf CPP-Modules
+: 1719897004:0;top
+: 1719897004:0;top -bn1
+: 1719897004:0;top -b1
+: 1719897004:0;top -b
+: 1719897004:0;top | grep
+: 1719897004:0;top | grep 1
+: 1719897004:0;top
+: 1719897004:0;top | grep a
+: 1719897004:0;top | grep afatir
+: 1719897004:0;chroot /jail
+: 1719897004:0;cp -a /bin/bash /jail/bin/bash
+: 1719897004:0;which chroot
+: 1719897004:0;pwd
+: 1719897004:0;file /usr/bin/chroot
+: 1719897004:0;cl
+: 1719897004:0;ps
+: 1719897004:0;userrs
+: 1719897004:0;users
+: 1719897004:0;who
+: 1719897004:0;cl
+: 1719897004:0;/tmp
+: 1719897004:0;gcl https://github.com/AhmedFatir/web.git
+: 1719897004:0;cd web
+: 1719897004:0;ls
+: 1719897004:0;echo "hello world > index.html\
+\
+"
+: 1719897004:0;ls
+: 1719897004:0;vi index.html
+: 1719897004:0;l
+: 1719897004:0;cat index.html
+: 1719897004:0;P{USH
+: 1719897004:0;PUSH
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/so_long.git
+: 1719897004:0;cd so_long
+: 1719897004:0;code -r .
+: 1719897004:0;user
+: 1719897004:0;users
+: 1719897004:0;c17 main.cpp
+: 1719897004:0;./a.out
+: 1719897004:0;c17 main.cpp && ./a.out
+: 1719897004:0;c17 -lmlx -framework OpenGL -framework AppKit main.cpp && ./a.out
+: 1719897004:0;make
+: 1719897004:0;make fclean
+: 1719897004:0;c++ -lmlx -framework OpenGL -framework AppKit main.cpp
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.cpp
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c
+: 1719897004:0;./a.out
+: 1719897004:0;ls
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c
+: 1719897004:0;./a.out
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c && ./a.out
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c -o close && ./close
+: 1719897004:0;osascript -e 'tell app "Safari" to activate'
+: 1719897004:0;osascript -e 'tell application "System Events" to tell appearance preferences to set dark mode to not dark mode'
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;zshup
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c -o close && ./close
+: 1719897004:0;ls
+: 1719897004:0;rm a.out
+: 1719897004:0;rm log.txt
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c -o close && ./close
+: 1719897004:0;l
+: 1719897004:0;ps
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c -o close && ./close
+: 1719897004:0;ps
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c -o close && ./close
+: 1719897004:0;ps
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c -o clos
+: 1719897004:0;ls
+: 1719897004:0;rm clos
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c -o close
+: 1719897004:0;open .
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c -o close
+: 1719897004:0;./close
+: 1719897004:0;cc -lmlx -framework OpenGL -framework AppKit main.c -o close
+: 1719897004:0;./close
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;rm so_long
+: 1719897004:0;rmf so_long
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;cd .ssh
+: 1719897004:0;ls
+: 1719897004:0;cat id_rsa.pub
+: 1719897004:0;cd
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;gcl https://github.com/Betmi-Mohammed/betmi-Brille.git
+: 1719897004:0;cd betmi-Brille
+: 1719897004:0;ls
+: 1719897004:0;code -r .
+: 1719897004:0;ls
+: 1719897004:0;PUSH
+: 1719897004:0;ls
+: 1719897004:0;ls -la
+: 1719897004:0;git add .
+: 1719897004:0;git status
+: 1719897004:0;git commit -m "web1.0"
+: 1719897004:0;git log
+: 1719897004:0;git push
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;cd -
+: 1719897004:0;ls
+: 1719897004:0;PUSH
+: 1719897004:0;git pull
+: 1719897004:0;PUSH
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;rmf betmi-Brille
+: 1719897004:0;gcl https://github.com/Betmi-Mohammed/betmi-Brille.git
+: 1719897004:0;./betmi-Brille
+: 1719897004:0;ls
+: 1719897004:0;open .
+: 1719897004:0;l
+: 1719897004:0;rmf .DS_Store \ \(1\).vscode
+: 1719897004:0;l
+: 1719897004:0;PUSH
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;gcl https://github.com/Betmi-Mohammed/betmi-Brille.git
+: 1719897004:0;open .
+: 1719897004:0;ls
+: 1719897004:0;./betmi-Brille
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;rmv
+: 1719897004:0;l
+: 1719897004:0;PUSH
+: 1719897004:0;cl
+: 1719897004:0;ls
+: 1719897004:0;pwd
+: 1719897004:0;cll
+: 1719897004:0;cl
+: 1719897004:0;l
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;ssh root@localhost -p 4242
+: 1719897004:0;ls
+: 1719897004:0;scp .zshrc root@localhost:/home/afatir/.zshrc
+: 1719897004:0;scp .zshrc root@localhost:/root/.zshrc
+: 1719897004:0;ls
+: 1719897004:0;pbcopy < ~/.ssh/id_rsa.pub
+: 1719897004:0;cdd
+: 1719897004:0;rmf inception
+: 1719897004:0;gcl git@github.com:AhmedFatir/inception.git
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;ld
+: 1719897004:0;l
+: 1719897004:0;./inception
+: 1719897004:0;code -r .
+: 1719897004:0;cl
+: 1719897004:0;ls
+: 1719897004:0;cd
+: 1719897004:0;./.ssh
+: 1719897004:0;ls
+: 1719897004:0;ssh root@localhost -p 4242
+: 1719897004:0;ssh afatir@localhost -p 4242
+: 1719897004:0;ssh root@localhost -p 4242
+: 1719897004:0;ssh afatir@localhost -p 4242
+: 1719897004:0;l
+: 1719897004:0;vi .zshrc
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;man signal
+: 1719897004:0;man kill
+: 1719897004:0;cl
+: 1719897004:0;ssh afatir@localhost -p 4242
+: 1719897004:0;ssh root@localhost -p 4242
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cd .ssh
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;gcl git@vogsphere-v2.1337.ma:vogsphere/intra-uuid-d4e5c86c-b1fe-4c6d-a468-482a450a2bb0-5667129-asalek eval
+: 1719897004:0;ls
+: 1719897004:0;cd eval
+: 1719897004:0;ls
+: 1719897004:0;cat video
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/ft_irc.git
+: 1719897004:0;./ft_irc
+: 1719897004:0;make
+: 1719897004:0;./ircserv 4444 pass
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;code -r .
+: 1719897004:0;make
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;ls
+: 1719897004:0;make fclean
+: 1719897004:0;l
+: 1719897004:0;PUSH
+: 1719897004:0;..
+: 1719897004:0;rmf Screen\ Recording\ 2024-05-13\ at\ 10.21.45\ PM.mov ft_irc
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;cd && git clone https://github.com/0Slaye/pcalculator.git
+: 1719897004:0;cd pcalculator && ./setup.sh
+: 1719897004:0;cd .. && source .zshrc
+: 1719897004:0;pcalculator
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;cd pcalculator
+: 1719897004:0;l
+: 1719897004:0;ls
+: 1719897004:0;make
+: 1719897004:0;./exec
+: 1719897004:0;make
+: 1719897004:0;./exec
+: 1719897004:0;;
+: 1719897004:0;l
+: 1719897004:0;./sources
+: 1719897004:0;l
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;pcalculator
+: 1719897004:0;gcl https://github.com/cldidier/42_xp_calculator.git
+: 1719897004:0;cd 42_xp_calculator
+: 1719897004:0;make
+: 1719897004:0;./xp_calculator
+: 1719897004:0;..
+: 1719897004:0;ls
+: 1719897004:0;rmf 42_xp_calculator pcalculator
+: 1719897004:0;cl
+: 1719897004:0;defaults write -g InitialKeyRepeat -int 15
+: 1719897004:0;defaults write -g KeyRepeat -int 2
+: 1719897004:0;defaults
+: 1719897004:0;man defaults
+: 1719897004:0;defaults read
+: 1719897004:0;defaults read > l
+: 1719897004:0;l
+: 1719897004:0;defaults write -g InitialKeyRepeat -int 100
+: 1719897004:0;defaults write -g DidSeeAppearanceSetup -int 1
+: 1719897004:0;defaults write -g DidSeeAppearanceSetup -int 2
+: 1719897004:0;defaults write -g DidSeeAppearanceSetup -int 3
+: 1719897004:0;osascript -e 'tell application "System Events" to tell appearance preferences to set dark mode to false'
+: 1719897004:0;defaults write NSGlobalDomain AppleInterfaceStyle -string "Dark"\
+killall SystemUIServer
+: 1719897004:0;defaults write NSGlobalDomain AppleInterfaceStyle -string "Light"
+: 1719897004:0;killall SystemUIServer
+: 1719897004:0;ls
+: 1719897004:0;vm l l.sh
+: 1719897004:0;mv l l.sh
+: 1719897004:0;l
+: 1719897004:0;chmod 777 l.sh
+: 1719897004:0;./l.sh
+: 1719897004:0;mv l.sh toggle_appearance.sh
+: 1719897004:0;./toggle_appearance.sh
+: 1719897004:0;l
+: 1719897004:0;zshup
+: 1719897004:0;./toggle_appearance.sh
+: 1719897004:0;defaults read -g InitialKeyRepeat
+: 1719897004:0;defaults read -g KeyRepeat
+: 1719897004:0;./toggle_appearance.sh
+: 1719897004:0;/usr/libexec/PlistBuddy -c "Set :InitialKeyRepeat 10" ~/Library/Preferences/.GlobalPreferences.plist
+: 1719897004:0;/usr/libexec/PlistBuddy -c "Set :KeyRepeat 1" ~/Library/Preferences/.GlobalPreferences.plist
+: 1719897004:0;killall SystemUIServer
+: 1719897004:0;./toggle_appearance.sh
+: 1719897004:0;zsup
+: 1719897004:0;zshup
+: 1719897004:0;./toggle_appearance.sh
+: 1719897004:0;/usr/libexec/PlistBuddy -c "Set :KeyRepeat 1" ~/Library/Preferences/.GlobalPreferences.plist
+: 1719897004:0;l
+: 1719897004:0;mv toggle_appearance.sh AdjustKeyboardPrefs.scpt
+: 1719897004:0;l
+: 1719897004:0;./AdjustKeyboardPrefs.scpt
+: 1719897004:0;l
+: 1719897004:0;rmf .fig .docker AdjustKeyboardPrefs.scpt RectangleConfig.json toggle_appearance.sh
+: 1719897004:0;cl
+: 1719897004:0;l
+: 1719897004:0;rmf zshrc1
+: 1719897004:0;l
+: 1719897004:0;bas
+: 1719897004:0;ps
+: 1719897004:0;finder
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;/bin/rm -rf "$HOME"/.Trash/* &>/dev/null
+: 1719897004:0;l
+: 1719897004:0;./.TemporaryItems
+: 1719897004:0;..
+: 1719897004:0;./.Trash
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;touch hello
+: 1719897004:0;..
+: 1719897004:0;/bin/rm -rf "$HOME"/.Trash/* &>/dev/null
+: 1719897004:0;l
+: 1719897004:0;rm ccl
+: 1719897004:0;rm ccl1.sh
+: 1719897004:0;cl
+: 1719897004:0;./.Trash
+: 1719897004:0;touch hello
+: 1719897004:0;cl
+: 1719897004:0;l
+: 1719897004:0;zshup
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;l
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;..
+: 1719897004:0;l
+: 1719897004:0;./.oh-my-zsh
+: 1719897004:0;ls
+: 1719897004:0;cd themes
+: 1719897004:0;ls
+: 1719897004:0;ls bira.zsh-theme
+: 1719897004:0;pwd
+: 1719897004:0;pwd bira.zsh-theme
+: 1719897004:0;cd
+: 1719897004:0;cl
+: 1719897004:0;find "$HOME"/.Trash/* -mindepth 1 -delete
+: 1719897004:0;find ~/.Trash/* -mindepth 1 -delete
+: 1719897004:0;find ~/.Trash/ -mindepth 1 -delete
+: 1719897004:0;l
+: 1719897004:0;./.Trash
+: 1719897004:0;touch hello
+: 1719897004:0;..
+: 1719897004:0;find ~/.Trash/ -mindepth 1 -delete
+: 1719897004:0;./.Trash
+: 1719897004:0;l
+: 1719897004:0;..
+: 1719897004:0;find ~/.Trash/ -mindepth 1 -delete
+: 1719897004:0;zshup
+: 1719897004:0;cl
+: 1719897004:0;who
+: 1719897004:0;ll
+: 1719897004:0;l
+: 1719897004:0;touch l
+: 1719897004:0;rm l
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/inception.git
+: 1719897004:0;./inception
+: 1719897004:0;code -r .
+: 1719897004:0;cl
+: 1719897004:0;/tmp
+: 1719897004:0;gcl https://github.com/AhmedFatir/Minishell.git
+: 1719897004:0;./Minishell
+: 1719897004:0;code .
+: 1719897004:0;make
+: 1719897004:0;./minishell
+: 1719897004:0;lsof | grep minishell
+: 1719897004:0;lsof | grep ${minishell}
+: 1719897004:0;lsof | grep minishell
+: 1719897004:0;./minishell
+: 1719897004:0;lsof | grep minishell
+: 1719897004:0;./minishell
+: 1719897004:0;lsof | grep minishell
+: 1719897004:0;lls
+: 1719897004:0;l
+: 1719897004:0;ls
+: 1719897004:0;bash 
+: 1719897004:0;./minishell
+: 1719897004:0;echo $?
+: 1719897004:0;./minishell
+: 1719897004:0;.
+: 1719897004:0;cl
+: 1719897004:0;who
+: 1719897004:0;cl
+: 1719897004:0;l
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;cDBA+
+: 1719897004:0;cl
+: 1719897004:0;finder
+: 1719897004:0;cl
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;zshup
+: 1719897004:0;cl
+: 1719897004:0;/tmp
+: 1719897004:0;gcl https://github.com/AhmedFatir/inception-101.git
+: 1719897004:0;open inception-101
+: 1719897004:0;ls
+: 1719897004:0;cdd
+: 1719897004:0;rmf inception
+: 1719897004:0;gcl https://github.com/AhmedFatir/incep-101.git
+: 1719897004:0;code -r incep-101
+: 1719897004:0;ls
+: 1719897004:0;cd srcs
+: 1719897004:0;ls
+: 1719897004:0;cd requirements
+: 1719897004:0;ls
+: 1719897004:0;..
+: 1719897004:0;ls
+: 1719897004:0;rmf srcs
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;ls
+: 1719897004:0;ls -alR
+: 1719897004:0;l
+: 1719897004:0;tree
+: 1719897004:0;ls
+: 1719897004:0;PUSH
+: 1719897004:0;l
+: 1719897004:0;ls
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;l
+: 1719897004:0;rmv
+: 1719897004:0;l
+: 1719897004:0;code -r .
+: 1719897004:0;man nice
+: 1719897004:0;leaks
+: 1719897004:0;ps
+: 1719897004:0;zsh
+: 1719897004:0;ps
+: 1719897004:0;leaks zsh
+: 1719897004:0;ps
+: 1719897004:0;ps aux
+: 1719897004:0;c++ server.cpp
+: 1719897004:0;./a.out
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;gcl https://github.com/AhmedFatir/cub3D.git
+: 1719897004:0;code -r .
+: 1719897004:0;./cub3D
+: 1719897004:0;code -r .
+: 1719897004:0;make
+: 1719897004:0;./cub3D map.cub
+: 1719897004:0;./cub3D maps/map.cub
+: 1719897004:0;make mini
+: 1719897004:0;./mini_cub3D
+: 1719897004:0;./cub3D maps/map.cub
+: 1719897004:0;make clean
+: 1719897004:0;make fclean
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;cdd
+: 1719897004:0;l
+: 1719897004:0;rmf Screen\ Recording\ 2024-05-22\ at\ 1.01.08\ PM.mov cub3D
+: 1719897004:0;ls
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;ld
+: 1719897004:0;l
+: 1719897004:0;gcl https://github.com/AhmedFatir/cub3D.git
+: 1719897004:0;./cub3D
+: 1719897004:0;ls
+: 1719897004:0;code -r .
+: 1719897004:0;make bonus
+: 1719897004:0;./cub3D_bonus maps/map_1.cub
+: 1719897004:0;cd
+: 1719897004:0;l
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;rmf Screen\ Recording\ 2024-05-22\ at\ 11.23.03\ PM.mov cub3D
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/ft_irc.git
+: 1719897004:0;./ft_irc
+: 1719897004:0;code -r .
+: 1719897004:0;make
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;make clean
+: 1719897004:0;c
+: 1719897004:0;c++ MiniServer.cpp
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;make
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;make
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;make fclean
+: 1719897004:0;node WebSocketTester.js
+: 1719897004:0;npm WebSocketTester.js
+: 1719897004:0;js WebSocketTester.js
+: 1719897004:0;l
+: 1719897004:0;PUSH
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/cub3D.git
+: 1719897004:0;./cub3D
+: 1719897004:0;code -r .
+: 1719897004:0;make bonus
+: 1719897004:0;ls
+: 1719897004:0;make fclean
+: 1719897004:0;PUSH
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/ft_irc.git
+: 1719897004:0;rm cub3D ft_irc
+: 1719897004:0;gcl https://github.com/AhmedFatir/ft_irc.git
+: 1719897004:0;rmf cub3D ft_irc
+: 1719897004:0;gcl https://github.com/AhmedFatir/ft_irc.git
+: 1719897004:0;./ft_irc
+: 1719897004:0;code -r
+: 1719897004:0;ls
+: 1719897004:0;make
+: 1719897004:0;code -r .
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;make fclean
+: 1719897004:0;rmv
+: 1719897004:0;l
+: 1719897004:0;PUSH
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cdd
+: 1719897004:0;rmf ft_irc
+: 1719897004:0;ls
+: 1719897004:0;cl
+: 1719897004:0;./goinfre
+: 1719897004:0;ls
+: 1719897004:0;diff pfe\ soukayna\ el\ amrani\ \(3\) pfe\ soukayna\ el\ amrani\ \(3\)\ \(1\).pdf
+: 1719897004:0;l
+: 1719897004:0;diff pfe\ soukayna\ el\ amrani\ \(3\).pdf pfe\ soukayna\ el\ amrani\ \(3\)\ \(1\).pdf
+: 1719897004:0;open .
+: 1719897004:0;man diff-pdf 
+: 1719897004:0;vi t.py
+: 1719897004:0;cp t.py Desktop
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;pwd
+: 1719897004:0;mv pfe\ soukayna\ el\ amrani\ \(3\).pdf PFE_Soukayna_El_AMRANI_old.pdf
+: 1719897004:0;ls
+: 1719897004:0;pwd
+: 1719897004:0;python3 t.py
+: 1719897004:0;cdd
+: 1719897004:0;diff PFE_Soukayna_El_AMRANI.txt PFE_Soukayna_El_AMRANI_old.txt > l
+: 1719897004:0;ls
+: 1719897004:0;rm l t.py PFE_Soukayna_El_AMRANI.pdf PFE_Soukayna_El_AMRANI.txt PFE_Soukayna_El_AMRANI_old.pdf PFE_Soukayna_El_AMRANI_old.txt
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;who
+: 1719897004:0;cl
+: 1719897004:0;who
+: 1719897004:0;users
+: 1719897004:0;whoimi
+: 1719897004:0;whoimm
+: 1719897004:0;whoami
+: 1719897004:0;where
+: 1719897004:0;where .
+: 1719897004:0;which-command
+: 1719897004:0;cl
+: 1719897004:0;xl
+: 1719897004:0;cl
+: 1719897004:0;gcl https://github.com/AhmedFatir/ft_irc.git
+: 1719897004:0;ls
+: 1719897004:0;cd
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/ft_irc.git
+: 1719897004:0;code -r .
+: 1719897004:0;./ft_irc
+: 1719897004:0;make
+: 1719897004:0;./ircserv
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;ps
+: 1719897004:0;kill -13 13791
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;ps
+: 1719897004:0;kill -13 13981
+: 1719897004:0;signal
+: 1719897004:0;man kill
+: 1719897004:0;man signal
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;man signal
+: 1719897004:0;ps
+: 1719897004:0;kill -6 14458
+: 1719897004:0;llsl
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/AhmedFatir.git
+: 1719897004:0;./AhmedFatir
+: 1719897004:0;ls
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/AhmedFatir.git
+: 1719897004:0;gcl https://github.com/AhmedFatir/AhmedFatir.git af
+: 1719897004:0;./AhmedFatir
+: 1719897004:0;cp 1337.png ../af
+: 1719897004:0;cp README.md ../af
+: 1719897004:0;cp con.svg ../af
+: 1719897004:0;ls
+: 1719897004:0;../af
+: 1719897004:0;ls
+: 1719897004:0;PUSH
+: 1719897004:0;ls
+: 1719897004:0;../AhmedFatir
+: 1719897004:0;ls
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;cl
+: 1719897004:0;osascript -e 'tell application "System Events" to set the value of the first slider of the first group of the first tab group of the first window of the process "System Preferences" to 1.0'\
+
+: 1719897004:0;brew install brightness
+: 1719897004:0;zshup
+: 1719897004:0;brightness 1
+: 1719897004:0;vi script.scpt
+: 1719897004:0;osascript script.scpt
+: 1719897004:0;vi br.c
+: 1719897004:0;gcc -o br br.c -framework IOKit -framework ApplicationServices
+: 1719897004:0;rm br.c ;vi br.c
+: 1719897004:0;gcc -o set_brightness br.c -framework IOKit -framework CoreFoundation
+: 1719897004:0;./set_brightness
+: 1719897004:0;ls
+: 1719897004:0;rm br.c script.scpt set_brightness
+: 1719897004:0;ls
+: 1719897004:0;vi t.py
+: 1719897004:0;rm t.py
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;l
+: 1719897004:0;./Library
+: 1719897004:0;l
+: 1719897004:0;open .
+: 1719897004:0;cl
+: 1719897004:0;c
+: 1719897004:0;cl
+: 1719897004:0;l
+: 1719897004:0;./.vscode
+: 1719897004:0;ls
+: 1719897004:0;open .
+: 1719897004:0;..
+: 1719897004:0;rmf .vscode
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;./ltc
+: 1719897004:0;l
+: 1719897004:0;chmod 777 ltc
+: 1719897004:0;./ltc
+: 1719897004:0;ls
+: 1719897004:0;cl
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;gcl https://github.com/AhmedFatir/inception.git
+: 1719897004:0;./inception
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;open .
+: 1719897004:0;l
+: 1719897004:0;rmv
+: 1719897004:0;l
+: 1719897004:0;./srcs
+: 1719897004:0;l
+: 1719897004:0;cp .env ~/Desktop
+: 1719897004:0;rmf .env
+: 1719897004:0;cdd
+: 1719897004:0;l
+: 1719897004:0;rmv
+: 1719897004:0;l
+: 1719897004:0;ls
+: 1719897004:0;gcl git@vogsphere-v2.1337.ma:vogsphere/intra-uuid-11eff55c-527e-44c8-b8d2-ea2c94e9c00f-5362113-afatir inc
+: 1719897004:0;ls
+: 1719897004:0;./inc
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;rmv
+: 1719897004:0;l
+: 1719897004:0;./srcs
+: 1719897004:0;l
+: 1719897004:0;./requirements
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;..
+: 1719897004:0;ls
+: 1719897004:0;..
+: 1719897004:0;ls
+: 1719897004:0;PUSH
+: 1719897004:0;..
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;rmf inc inception
+: 1719897004:0;l
+: 1719897004:0;gcl git@vogsphere-v2.1337.ma:vogsphere/intra-uuid-11eff55c-527e-44c8-b8d2-ea2c94e9c00f-5362113-afatir inc
+: 1719897004:0;cp .env ./inc
+: 1719897004:0;./inc
+: 1719897004:0;l
+: 1719897004:0;..
+: 1719897004:0;scp -r ./inc root@localhost:/root/inc
+: 1719897004:0;l
+: 1719897004:0;cdd
+: 1719897004:0;l
+: 1719897004:0;rmf inc
+: 1719897004:0;l
+: 1719897004:0;gcl git@vogsphere-v2.1337.ma:vogsphere/intra-uuid-11eff55c-527e-44c8-b8d2-ea2c94e9c00f-5362113-afatir
+: 1719897004:0;./intra-uuid-11eff55c-527e-44c8-b8d2-ea2c94e9c00f-5362113-afatir
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;./srcs
+: 1719897004:0;l
+: 1719897004:0;../
+: 1719897004:0;..
+: 1719897004:0;rmf intra-uuid-11eff55c-527e-44c8-b8d2-ea2c94e9c00f-5362113-afatir
+: 1719897004:0;l
+: 1719897004:0;cl
+: 1719897004:0;lc
+: 1719897004:0;cl
+: 1719897004:0;cd Desktop
+: 1719897004:0;git clone git@vogsphere-v2.1337.ma:vogsphere/intra-uuid-11eff55c-527e-44c8-b8d2-ea2c94e9c00f-5362113-afatir youbrhic
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;./youbrhic
+: 1719897004:0;l
+: 1719897004:0;./srcs
+: 1719897004:0;l
+: 1719897004:0;../../
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cp .env ./youbrhic/srcs
+: 1719897004:0;ls
+: 1719897004:0;scp -r ./youbrhic root@localhost:/root/inceval
+: 1719897004:0;cl
+: 1719897004:0;cd /tmp
+: 1719897004:0;git clone git@vogsphere-v2.1337.ma:vogsphere/intra-uuid-11eff55c-527e-44c8-b8d2-ea2c94e9c00f-5362113-afatir
+: 1719897004:0;mv intra-uuid-11eff55c-527e-44c8-b8d2-ea2c94e9c00f-5362113-afatir co
+: 1719897004:0;cd co
+: 1719897004:0;code .
+: 1719897004:0;l
+: 1719897004:0;./srcs
+: 1719897004:0;l
+: 1719897004:0;cd
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cp .env /tmp/co
+: 1719897004:0;cd -
+: 1719897004:0;cd /tmp/co
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cp .env ./srcs
+: 1719897004:0;rm .env
+: 1719897004:0;l
+: 1719897004:0;..
+: 1719897004:0;scp -r ./co root@localhost:/root/inceval
+: 1719897004:0;cdd
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cat .env
+: 1719897004:0;gcl git@vogsphere-v2.1337.ma:vogsphere/intra-uuid-11eff55c-527e-44c8-b8d2-ea2c94e9c00f-5362113-afatir incepeval
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;cp .env ./incepeval/srcs
+: 1719897004:0;ls
+: 1719897004:0;l
+: 1719897004:0;scp -r ./incepeval root@localhost:/root/inceval
+: 1719897004:0;cl
+: 1719897004:0;xl
+: 1719897004:0;cl
+: 1719897004:0;who
+: 1719897004:0;cdd
+: 1719897004:0;;
+: 1719897004:0;l
+: 1719897004:0;gcl https://github.com/AhmedFatir/ft_irc.git
+: 1719897004:0;./ft_irc
+: 1719897004:0;code .
+: 1719897004:0;code -r .
+: 1719897004:0;cl
+: 1719897004:0;ls
+: 1719897004:0;make bonus
+: 1719897004:0;make
+: 1719897004:0;make clean
+: 1719897004:0;make bonus
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;./bot localhost 4444 hello bot BONUS/qoutes
+: 1719897004:0;./bot localhost 4444 bot BONUS/qoutes
+: 1719897004:0;./bot localhost 4444 123 bot BONUS/qoutes
+: 1719897004:0;ls
+: 1719897004:0;./BONUS
+: 1719897004:0;l
+: 1719897004:0;c++ parse.cpp
+: 1719897004:0;./a.out
+: 1719897004:0;c++ parse.cpp
+: 1719897004:0;./a.out
+: 1719897004:0;c++ parse.cpp && ./a.out
+: 1719897004:0;./bot.
+: 1719897004:0;..
+: 1719897004:0;./bot
+: 1719897004:0;./BONUS
+: 1719897004:0;cp .env ./srcs
+: 1719897004:0;c++ parse.cpp && ./a.out
+: 1719897004:0;..
+: 1719897004:0;make bonus
+: 1719897004:0;./bot
+: 1719897004:0;make bonus
+: 1719897004:0;./bot
+: 1719897004:0;make bonus
+: 1719897004:0;./bot
+: 1719897004:0;make bonus && ./bot
+: 1719897004:0;make fclean
+: 1719897004:0;./BONUS
+: 1719897004:0;rm a.out parse.cpp
+: 1719897004:0;..
+: 1719897004:0;make bonus
+: 1719897004:0;./bot
+: 1719897004:0;make bot
+: 1719897004:0;make bonus
+: 1719897004:0;./bo
+: 1719897004:0;./bot
+: 1719897004:0;make 
+: 1719897004:0;./ircserv 4444 "12 3"
+: 1719897004:0;./bot
+: 1719897004:0;./ircserv 4444 "12 3 "
+: 1719897004:0;./bot
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;./bot
+: 1719897004:0;ls
+: 1719897004:0;make fclean
+: 1719897004:0;cl
+: 1719897004:0;rmf
+: 1719897004:0;rmfv
+: 1719897004:0;rmv
+: 1719897004:0;cl
+: 1719897004:0;who
+: 1719897004:0;cl
+: 1719897004:0;ls
+: 1719897004:0;make
+: 1719897004:0;make bonus
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;./bot
+: 1719897004:0;nc localhost 4444
+: 1719897004:0;make fclean
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;./bot
+: 1719897004:0;PUSH
+: 1719897004:0;cdd
+: 1719897004:0;rmf
+: 1719897004:0;ls
+: 1719897004:0;rmf ft_irc
+: 1719897004:0;gcl https://github.com/AhmedFatir/ft_irc.git
+: 1719897004:0;code -r .
+: 1719897004:0;./ft_irc
+: 1719897004:0;ls
+: 1719897004:0;code -r .
+: 1719897004:0;make bonus
+: 1719897004:0;./bot
+: 1719897004:0;make bonus
+: 1719897004:0;./bot
+: 1719897004:0;make
+: 1719897004:0;./ircserv 4444 123
+: 1719897004:0;./bot
+: 1719897004:0;make fclean
+: 1719897004:0;PUSH
+: 1719897004:0;rmv
+: 1719897004:0;PUSH
+: 1719897004:0;who
+: 1719897004:0;cl
+: 1719897004:0;who
+: 1719897004:0;cl
+: 1719897004:0;c
+: 1719897004:0;cl
+: 1719897004:0;who
+: 1719897004:0;cl
+: 1719897004:0;y
+: 1719897004:0;cl
+: 1719897004:0;nc libera.chat
+: 1719897004:0;nc libera.chat 9050
+: 1719897004:0;nod WebSocketTester.js
+: 1719897004:0;node WebSocketTester.js
+: 1719897004:0;node WebSocketTester.js afatir
+: 1719897004:0;cat << ll\
+kdsfh\
+dsfjhdsf\
+dskfjsd\
+dslkjfds\
+dslfjds\
+ll
+: 1719897004:0;echo "'hello'"
+: 1719897004:0;echo '"'hello'"'
+: 1719897004:0;echo  "|"
+: 1719897004:0;echo  |\
+'
+: 1719897004:0;cl
+: 1719897004:0;ls
+: 1719897004:0;cl
+: 1719897004:0;lc
+: 1719897004:0;cl
+: 1719897004:0;who
+: 1719897004:0;l
+: 1719897004:0;cdd
+: 1719897004:0;gcl https://github.com/AhmedFatir/AhmedFatir.git
+: 1719897004:0;cp ~/.zshrc .
+: 1719897004:0;cp ~/.zsh_history .
+: 1719897004:0;cp ccl.sh ~/
+: 1719897004:0;cl
+: 1719897004:0;source .zshrc
+: 1719897004:0;ssh-keygen -t ed25519 -C "afatir.ahmedfatir@gmail.com"
+: 1719897004:0;eval "$(ssh-agent -s)"
+: 1719897004:0;ssh-add ~/.ssh/id_rsa 
+: 1719897004:0;pbcopy < ~/.ssh/id_rsa.pub
+: 1719897004:0;ls
+: 1719897004:0;ls -la
+: 1719897004:0;cd .ssh
+: 1719897004:0;ls
+: 1719897004:0;rm id_ed25519
+: 1719897004:0;rm id_ed25519.pub
+: 1719897004:0;cd ..
+: 1719897004:0;rm -rf .ssh
+: 1719897004:0;ssh-keygen -t rsa -b 4096 -C "afatir.ahmedfatir@gmail.com"
+: 1719897004:0;eval "$(ssh-agent -s)" 
+: 1719897004:0;ssh-add ~/.ssh/id_rsa 
+: 1719897004:0;pbcopy < ~/.ssh/id_rsa.pub
+: 1719897004:0;sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+: 1719811679:0;curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
+: 1719811723:0;zshup
+: 1719811732:0;brew install readline
+: 1719812247:0;ls
+: 1719812251:0;Brew install Xquartz
+: 1719812398:0;brew install glfw
+: 1719812930:0;brew install cmake
+: 1719812935:0;cd
+: 1719812936:0;l
+: 1719812986:0;zshup
+: 1719812990:0;cl
+: 1719812996:0;cdd
+: 1719812998:0;gcl https://github.com/AhmedFatir/cub3D.git
+: 1719813007:0;./cub3D
+: 1719813008:0;make
+: 1719813014:0;./cub3D_bonus maps/map_1.cub
+: 1719813025:0;./cub3D maps/map.cub
+: 1719813049:0;..
+: 1719813057:0;rmf cub3D AhmedFatir
+: 1719813058:0;ls
+: 1719813059:0;l
+: 1719814093:0;ssh root@localhost -p 4242
+: 1719816095:0;cl
+: 1719819106:0;l
+: 1719819113:0;cl
+: 1719819132:0;l
+: 1719819303:0;cl
+: 1719827707:0;cddgcl https://github.com/AhmedFatir/inception.git
+: 1719827713:0;cdd ; gcl https://github.com/AhmedFatir/inception.git
+: 1719827721:0;./inception
+: 1719827723:0;code -r .
+: 1719896235:0;cl
+: 1719896856:0;cdd
+: 1719896860:0;gcl https://github.com/JCluzet/42_EXAM.git
+: 1719896875:0;ls
+: 1719896878:0;./42_EXAM
+: 1719896879:0;bash -c "$(curl https://grademe.fr)"
+: 1719896990:0;ls
+: 1719897007:0;code -r .
+: 1719897123:0;bash -c "$(curl https://grademe.fr)"
+: 1719898097:0;./rendu
+: 1719898104:0;c++ main.c
+: 1719898111:0;c++ main.c Warlock.cpp
+: 1719898219:0;c++ main.cpp Warlock.cpp
+: 1719898223:0;./a.out
+: 1719898248:0;./a.out | cat -e
+: 1719898295:0;rm main.cpp a.out
+: 1719898297:0;ls
+: 1719898406:0;mkdir cpp_module00
+: 1719898412:0;cp Warlock.cpp cpp_module00
+: 1719898417:0;cp Warlock.hpp cpp_module00
+: 1719898420:0;ls
+: 1719898422:0;./cpp_module00
+: 1719898423:0;ls
+: 1719898426:0;..
+: 1719898430:0;rmf Warlock.cpp Warlock.hpp
+: 1719898877:0;ls
+: 1719899001:0;./cpp_module00
+: 1719899006:0;touch main.cpp
+: 1719899057:0;c++ main.cpp Warlock.cpp
+: 1719899220:0;rmf main.cpp a.out
+: 1719899563:0;touch main.cpp
+: 1719899613:0;c++ main.cpp Warlock.cpp
+: 1719899619:0;rm a.out
+: 1719899772:0;c++ main.cpp Warlock.cpp
+: 1719899779:0;rm a.out
+: 1719900620:0;cdd
+: 1719900622:0;gcl https://github.com/markveligod/examrank-02-03-04-05-06.git
+: 1719900627:0;ls
+: 1719900629:0;./examrank-02-03-04-05-06
+: 1719900634:0;./examRank05
+: 1719900635:0;ls
+: 1719900638:0;code .
+: 1719902415:0;bash -c "$(curl https://grademe.fr)"
+: 1719902419:0;cd
+: 1719902516:0;cdd
+: 1719902518:0;./42_EXAM
+: 1719902519:0;ls
+: 1719902521:0;./rendu
+: 1719902525:0;mkdir cpp_module_00
+: 1719902528:0;./cpp_module_00
+: 1719902530:0;ls
+: 1719902538:0;touch Warlock.cpp Warlock.hpp
+: 1719903149:0;touch main.cpp
+: 1719903181:0;c++ main.cpp Warlock.cpp
+: 1719903184:0;./a.out
+: 1719903188:0;./a.out | cat -e
+: 1719903197:0;rm main.cpp a.out
+: 1719903234:0;ls
+: 1719903239:0;..
+: 1719903239:0;ls
+: 1719903284:0;mkdir cpp_module00
+: 1719903290:0;ls
+: 1719903298:0;l
+: 1719903321:0;./cpp_module_00
+: 1719903322:0;ls
+: 1719903323:0;..
+: 1719903329:0;rmf cpp_module00
+: 1719903340:0;mv cpp_module_00 cpp_module00
+: 1719903342:0;ls
+: 1719903417:0;mkdir cpp_module01
+: 1719903420:0;./cpp_module01
+: 1719903421:0;ls
+: 1719903459:0;touch arlock.cpp Warlock.hpp ASpell.hpp ASpell.cpp ATarget.hpp ATarget.cpp Fwoosh.hpp Fwoosh.cpp Dummy.hpp Dummy.cpp
+: 1719903460:0;ls
+: 1719903461:0;l
+: 1719907428:0;touch main.cpp
+: 1719907554:0;c++ main.cpp warlock.cpp Dummy.cpp Fwoosh.cpp ASpell.cpp ATarget.cpp
+: 1719908110:0;./a.out | cat -e
+: 1719908143:0;rm main.cpp a.out
+: 1719909625:0;ls
+: 1719909626:0;..
+: 1719909636:0;mkdir cpp_module02
+: 1719909639:0;..
+: 1719909645:0;./rendu
+: 1719909647:0;./cpp_module01
+: 1719909655:0;cp * ../cpp_module02
+: 1719909660:0;../cpp_module02
+: 1719909662:0;ls
+: 1719909681:0;touch main.cpp Fireball.hpp Fireball.cpp Polymorph.hpp Polymorph.cpp BrickWall.hpp BrickWall.cpp SpellBook.hpp SpellBook.cpp TargetGenerator.hpp TargetGenerator.cpp
+: 1719916137:0;cl
+: 1719910155:1;cl
+: 1720071443:0;cdd
+: 1720071462:0;touch file.py
+: 1720071489:0;touch file.txt
+: 1720071689:0;python3 file.py
+: 1720072657:0;c
+: 1720072661:0;cl
+: 1720077393:0;cdd
+: 1720077394:0;ls
+: 1720077398:0;./42_EXAM
+: 1720077399:0;ls
+: 1720077401:0;..
+: 1720077411:0;./examrank-02-03-04-05-06/examRank05
+: 1720077412:0;ls
+: 1720077415:0;code .
+: 1720077422:0;../../42_EXAM
+: 1720077428:0;code -r .
+: 1720077448:0;ls
+: 1720077452:0;bash -c "$(curl https://grademe.fr)"
+: 1720077571:0;ls
+: 1720077574:0;bash -c "$(curl https://grademe.fr)"
+: 1720077625:0;cdd
+: 1720077628:0;rmf 42_EXAM
+: 1720077635:0;gcl https://github.com/JCluzet/42_EXAM.git
+: 1720077643:0;./42_EXAM
+: 1720077647:0;code -r .
+: 1720077653:0;..
+: 1720077654:0;code -r .
+: 1720077664:0;./42_EXAM
+: 1720077665:0;code -r .
+: 1720077673:0;bash
+: 1720077677:0;bash -c "$(curl https://grademe.fr)"
+: 1720077734:0;ls
+: 1720077736:0;./rendu
+: 1720077748:0;mkdir cpp_module00
+: 1720077749:0;./cpp_module00
+: 1720077759:0;touch Warlock.cpp Warlock.hpp
+: 1720078586:0;touch main.cpp
+: 1720078610:0;c++ *.cpp
+: 1720078614:0;./a.out
+: 1720078623:0;./a.out | cat -e
+: 1720078643:0;rm main.cpp a.out
+: 1720078714:0;touch msi
+: 1720078717:0;rm msi
+: 1720078721:0;touch main.cpp
+: 1720078731:0;c++ *.cpp
+: 1720078803:0;./a.out | cat -e
+: 1720078809:0;rm main.cpp a.out
+: 1720078823:0;..
+: 1720078824:0;ls
+: 1720078880:0;mkdir cpp_module01
+: 1720078885:0;./cpp_module00
+: 1720078892:0;cp * ../cpp_module01
+: 1720078893:0;ls
+: 1720078897:0;../cpp_module01
+: 1720078898:0;ls
+: 1720078932:0;touch ASpell.hpp ASpell.cpp ATarget.hpp ATarget.cpp Fwoosh.hpp Fwoosh.cpp Dummy.hpp Dummy.cpp
+: 1720246208:0;cl
+: 1720246363:0;ssh root@localhost -p 4242
+: 1720336672:0;cl
+: 1720336810:0;l
+: 1720336812:0;./Library
+: 1720336813:0;ls
+: 1720336821:0;open .
+: 1720336839:0;ls
+: 1720336843:0;./Preferences
+: 1720336844:0;ls
+: 1720336845:0;.
+: 1720336848:0;open .
+: 1720336858:0;ls | grep spo
+: 1720336868:0;rmf com.spotify.client.plist
+: 1720336870:0;ls
+: 1720336875:0;cl
+: 1720338900:0;who
+: 1720339750:0;ls
+: 1720339752:0;./goinfre
+: 1720339753:0;ls
+: 1720339755:0;./inception
+: 1720339757:0;ls
+: 1720339757:0;l
+: 1720339789:0;VBoxManage clonemedium disk --format VDI --variant Standard inception.vdi inception1.vdi
+: 1720339847:0;ls
+: 1720339865:0;VBoxManage modifymedium disk inception1.vdi --resize 81920
+: 1720339870:0;l
+: 1720339893:0;VBoxManage modifymedium disk inception1.vdi --resize 81920
+: 1720339897:0;ls 
+: 1720339909:0;rmf inception.vdi
+: 1720339926:0;vm inception1.vdi inception.vdi
+: 1720339931:0;mv inception1.vdi inception.vdi
+: 1720339933:0;ls
+: 1720339935:0;l
+: 1720340271:0;ls
+: 1720340275:0;cd
+: 1720340278:0;./goinfre/inception
+: 1720340287:0;VBoxManage modifymedium disk inception.vdi --resize 81920
+: 1720340614:0;zshup
+: 1720341645:0;cl
+: 1720341655:0;cd
+: 1720341660:0;./goinfre/inception
+: 1720341663:0;VBoxManage modifymedium disk inception.vdi --resize 81920
+: 1720352350:0;cl
+: 1720416998:0;llcl
+: 1720417000:0;cl
+: 1720417001:0;ld
+: 1720417003:0;ls
+: 1720417033:0;./goinfre
+: 1720417034:0;ls
+: 1720417037:0;lgcl git@github.com:AhmedFatir/ELK-stack.git
+: 1720417040:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1720417047:0;./ELK-stack
+: 1720417049:0;ls
+: 1720417050:0;make
+: 1720417913:0;make prune
+: 1720417943:0;cl
+: 1720417949:0;make prune
+: 1720417995:0;make clean
+: 1720418004:0;ls
+: 1720418015:0;docker stop $(docker ps -qa)
+: 1720418058:0;cl
+: 1720418060:0;l
+: 1720418114:0;cl
+: 1720418153:0;./Pictures
+: 1720867498:0;
+: 1720437775:0;cl
+: 1720591293:0;who
+: 1720591298:0;lcl
+: 1720591299:0;cl
+: 1720601356:0;./goinfre/inception
+: 1720601412:0;VBoxManage modifyhd inception.vdi --resize 81920
+: 1720610839:0;cl
+: 1720677225:0;ssh root@localhost -p 4444
+: 1720679716:0;l
+: 1720679722:0;cat .zshrc
+: 1720684789:0;exeption::garde ;aj
+: 1720685519:0;cd
+: 1720685520:0;cdd
+: 1720685522:0;gcl git@github.com:AhmedFatir/CPP-Modules.git
+: 1720685541:0;ls
+: 1720685543:0;./CPP-Modules
+: 1720685546:0;./Module\ 05
+: 1720685547:0;ls
+: 1720685551:0;code -r .
+: 1720685562:0;./ex00
+: 1720685563:0;ls
+: 1720685577:0;make
+: 1720685587:0;./Bureaucrat
+: 1720685643:0;make
+: 1720685644:0;./Bureaucrat
+: 1720685663:0;make
+: 1720685670:0;./Bureaucrat
+: 1720685709:0;make
+: 1720685711:0;./Bureaucrat
+: 1720847394:0;cl
+: 1720856755:0;ls
+: 1720856757:0;./goinfre
+: 1720856757:0;ls
+: 1720856777:0;scp  ./rustup-init.sh root@localhost:/root/
+: 1720857108:0;rustc 
+: 1720857157:0;cl
+: 1720935636:0;l
+: 1720938905:0;cl
+: 1721021209:0;l
+: 1721021213:0;cl
+: 1721041722:0;who
+: 1721041732:0;ls
+: 1721041735:0;cl
+: 1721041743:0;who
+: 1721041748:0;ls
+: 1721041753:0;who
+: 1721041759:0;date
+: 1721109356:0;ls
+: 1721109360:0;cdd
+: 1721109376:0;./42_EXAM
+: 1721109377:0;ls
+: 1721109381:0;cdd
+: 1721109384:0;./examrank-02-03-04-05-06
+: 1721109386:0;ls
+: 1721109391:0;./examRank05
+: 1721109392:0;ls
+: 1721109395:0;./cpp_module_00
+: 1721109395:0;ls
+: 1721109410:0;cl
+: 1721109414:0;cdd
+: 1721109421:0;./42_EXAM
+: 1721109425:0;bash -c "$(curl https://grademe.fr)"
+: 1721109492:0;cl
+: 1721109498:0;ls
+: 1721109502:0;code -r .
+: 1721109510:0;ls
+: 1721109514:0;cd
+: 1721109517:0;cdd
+: 1721109523:0;./examrank-02-03-04-05-06/examRank05/cpp_module_00
+: 1721109525:0;ls
+: 1721109526:0;cl
+: 1721112138:0;../examrank-02-03-04-05-06/examRank05/cpp_module_00
+: 1721112139:0;ls
+: 1721112149:0;pwd
+: 1721112151:0;cl
+: 1721113952:0;ls
+: 1721113953:0;cl
+: 1721113955:0;bash
+: 1721113960:0;bash -c "$(curl https://grademe.fr)"
+: 1721114033:0;ls
+: 1721114041:0;./subjects
+: 1721114041:0;ls
+: 1721114059:0;../rendu
+: 1721114064:0;touch Warlock.cpp Warlock.hpp
+: 1721114080:0;ls
+: 1721114082:0;pwd
+: 1721114089:0;mkdir cpp_module00
+: 1721114098:0;cp Warlock.cpp cpp_module00
+: 1721114103:0;cp Warlock.hpp cpp_module00
+: 1721114108:0;rm Warlock.cpp Warlock.hpp
+: 1721114114:0;./cpp_module00/
+: 1721114114:0;ls
+: 1721114121:0;touch main.cpp
+: 1721114123:0;ls
+: 1721114952:0;c++ *.cpp
+: 1721115131:0;./a.out
+: 1721115143:0;./a.out | cat -e > l
+: 1721115166:0;ls
+: 1721115199:0;rm a.out main.cpp l
+: 1721115201:0;ls
+: 1721115260:0;../subjects
+: 1721115261:0;sl
+: 1721115262:0;ls
+: 1721115267:0;../cpp_module_01
+: 1721115270:0;..
+: 1721115280:0;mkdir cpp_module01
+: 1721115291:0;cp ./cpp_module00/Warlock.cpp cpp_module01
+: 1721115294:0;cp ./cpp_module00/Warlock.hpp cpp_module01
+: 1721115296:0;ls
+: 1721115298:0;./cpp_module01
+: 1721115300:0;ls
+: 1721115326:0;touch ASpell.hpp ASpell.cpp ATarget.hpp ATarget.cpp Fwoosh.hpp Fwoosh.cpp Dummy.hpp Dummy.cpp
+: 1721115329:0;ls
+: 1721115353:0;touch main.cpp
+: 1721116885:0;../cpp_module_01
+: 1721116886:0;ls
+: 1721118010:0;c++ *.cpp
+: 1721118185:0;./a.out
+: 1721118191:0;./a.out | cat -e > l
+: 1721118198:0;./a.out | cat -e
+: 1721118295:0;./a.out
+: 1721118297:0;c++ *.cpp
+: 1721118301:0;./a.out | cat -e
+: 1721118311:0;rm l main.cpp a.out
+: 1721118312:0;ls
+: 1721118389:0;touch main.cpp
+: 1721118644:0;c++ *.cpp
+: 1721118648:0;./a.out
+: 1721118680:0;./a.out | cat -e
+: 1721118823:0;c++ --std=c++98 -Wall -Wextra -Werror *.cpp
+: 1721118827:0;./a.out
+: 1721119133:0;c++ --std=c++98 -Wall -Wextra -Werror *.cpp
+: 1721119173:0;./a.out | cat -e
+: 1721119229:0;c++ --std=c++98 -Wall -Wextra -Werror *.cpp
+: 1721119234:0;./a.out | cat -e
+: 1721119246:0;ps
+: 1721119312:0;c++ --std=c++98 -Wall -Wextra -Werror *.cpp
+: 1721119315:0;ps
+: 1721119317:0;./a.out | cat -e
+: 1721119581:0;c++ --std=c++98 -Wall -Wextra -Werror *.cpp
+: 1721119725:0;./a.out | cat -e
+: 1721119972:0;cl
+: 1721120699:0;bash -c "$(curl https://grademe.fr)"
+: 1721120765:0;cl
+: 1721120768:0;bash -c "$(curl https://grademe.fr)"
+: 1721120804:0;lls
+: 1721120805:0;l
+: 1721120807:0;..
+: 1721120807:0;ls
+: 1721120809:0;./42_EXAM
+: 1721120812:0;cl
+: 1721120818:0;ls
+: 1721120822:0;bash -c "$(curl https://grademe.fr)"
+: 1721120878:0;..
+: 1721120879:0;ls
+: 1721120881:0;rmf 42_EXAM
+: 1721120908:0;gcl https://github.com/JCluzet/42_EXAM.git
+: 1721120913:0;./42_EXAM
+: 1721120917:0;bash -c "$(curl https://grademe.fr)"
+: 1721120953:0;ls
+: 1721120963:0;cdd
+: 1721120965:0;./42_EXAM
+: 1721120969:0;./rendu
+: 1721120971:0;bash
+: 1721121025:0;ls
+: 1721121027:0;..
+: 1721121028:0;ls
+: 1721121030:0;code -r .
+: 1721121034:0;.
+: 1721121035:0;..
+: 1721121037:0;code -r .
+: 1721121048:0;./42_EXAM
+: 1721121049:0;code -r .
+: 1721121059:0;bash
+: 1721121066:0;cdd
+: 1721121068:0;./examrank-02-03-04-05-06
+: 1721121073:0;./examRank05/cpp_module_00
+: 1721121075:0;ls
+: 1721123820:0;../cpp_module_01
+: 1721123821:0;ls
+: 1721125718:0;..
+: 1721125722:0;./cpp_module_02
+: 1721125723:0;ls
+: 1721125724:0;l
+: 1721125744:0;code -r .
+: 1721126254:0;ls
+: 1721126260:0;la
+: 1721126261:0;l
+: 1721126262:0;ls
+: 1721126265:0;./Library
+: 1721126271:0;./Containers
+: 1721126272:0;ls
+: 1721126280:0;./com.docker.docker
+: 1721126281:0;ls
+: 1721126347:0;mv ~/Library/Containers/com.docker.docker ~/goinfre/DockerData
+: 1721126401:0;l | grep docker
+: 1721126405:0;ls 
+: 1721126406:0;..
+: 1721126409:0;l | grep docker
+: 1721126451:0;./goinfre
+: 1721126467:0;mkdir DockerData
+: 1721126473:0;ls
+: 1721126479:0;rsync -a ~/Library/Containers/com.docker.docker ~/goinfre/DockerData
+: 1721126497:0;mv ~/Library/Containers/com.docker.docker ~/Library/Containers/com.docker.docker.backup
+: 1721126505:0;ln -s ~/goinfre/DockerData/com.docker.docker ~/Library/Containers/com.docker.docker
+: 1721126582:0;cdd
+: 1721126583:0;ls
+: 1721126586:0;gcl git@github.com:AhmedFatir/inception.git
+: 1721126593:0;./inception
+: 1721126595:0;make
+: 1721126931:0;code .
+: 1721126988:0;./inception-blog.zip
+: 1721126989:0;cd
+: 1721126992:0;./goinfre
+: 1721126993:0;ls
+: 1721127001:0;pwd
+: 1721127034:0;make
+: 1721127061:0;ls
+: 1721127065:0;./data
+: 1721127065:0;ls
+: 1721127068:0;./mariadb
+: 1721127068:0;ls
+: 1721127069:0;..
+: 1721127070:0;ls
+: 1721127085:0;make re
+: 1721127306:0;make clean
+: 1721127320:0;make
+: 1721127359:0;l
+: 1721127393:0;pwd
+: 1721127396:0;ls -la
+: 1721127551:0;make re
+: 1721127568:0;lc
+: 1721127571:0;cl
+: 1721127627:0;makewp
+: 1721127629:0;make wp
+: 1721127659:0;make prune
+: 1721127683:0;cl
+: 1721127701:0;cdd
+: 1721127704:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1721127723:0;./ELK-stack
+: 1721127725:0;make
+: 1721128169:0;make down
+: 1721128758:0;PUSH
+: 1721128890:0;make
+: 1721128979:0;make fcl
+: 1721128985:0;make clean
+: 1721129037:0;PUSH
+: 1721129163:0;who
+: 1721165135:0;cl
+: 1721165176:0;cd
+: 1721165177:0;l
+: 1721165183:0;./Library
+: 1721165184:0;ls
+: 1721165189:0;./Containers
+: 1721165195:0;ls -la
+: 1721165203:0;cd
+: 1721165204:0;l
+: 1721165270:0;zshup
+: 1721165274:0;cpd
+: 1721165417:0;ls
+: 1721165421:0;cd -
+: 1721165422:0;ls
+: 1721165433:0;rmf com.docker.docker
+: 1721165434:0;ls
+: 1721165536:0;./com.docker.docker
+: 1721165537:0;ls
+: 1721165539:0;./Data
+: 1721165539:0;ls
+: 1721165551:0;./extensions
+: 1721165552:0;ls
+: 1721165553:0;l
+: 1721165555:0;..
+: 1721165559:0;./tasks
+: 1721165560:0;ls
+: 1721165667:0;~/Library/Group\ Containers/group.com.docker
+: 1721165668:0;ls
+: 1721165719:0;cpd
+: 1721165728:0;cd -
+: 1721165729:0;ls
+: 1721165731:0;..
+: 1721165731:0;ls
+: 1721165739:0;..
+: 1721165740:0;ls
+: 1721165743:0;..
+: 1721165744:0;ls
+: 1721165752:0;osascript -e 'quit app "Docker"'
+: 1721165771:0;cd
+: 1721165772:0;l
+: 1721165835:0;osascript -e "quit app \'Docker\'"
+: 1721165845:0;zshup
+: 1721165908:0;cpd
+: 1721165925:0;zshup
+: 1721165927:0;cpd
+: 1721165944:0;zshup
+: 1721165947:0;cpd
+: 1721165962:0;zshup
+: 1721165965:0;cpd
+: 1721165995:0;zshup
+: 1721165997:0;cpd
+: 1721166012:0;osascript -e "quit app Docker"
+: 1721166017:0;osascript -e "quit app 'Docker'"
+: 1721166037:0;osascript -e 'quit app "Docker"'
+: 1721166096:0;zshup
+: 1721166099:0;cpd
+: 1721166118:0;zshup
+: 1721166120:0;cpd
+: 1721166138:0;zshup
+: 1721166140:0;cpd
+: 1721166330:0;cd
+: 1721166332:0;ll
+: 1721166334:0;l
+: 1721166394:0;ls
+: 1721166399:0;cl
+: 1721166423:0;ls
+: 1721166424:0;l
+: 1721166530:0;./Library
+: 1721166532:0;./c
+: 1721166538:0;./Containers
+: 1721166549:0;rmf com.docker.docker com.docker.docker.backup
+: 1721166552:0;cl
+: 1721168784:0;cdd
+: 1721168785:0;./42_EXAM
+: 1721168787:0;ls
+: 1721168790:0;code .
+: 1721168808:0;cl
+: 1721169660:0;ld
+: 1721169663:0;ls
+: 1721169710:0;cl
+: 1721169740:0;zshup
+: 1721169742:0;cpd
+: 1721169813:0;cd
+: 1721169814:0;l
+: 1721170003:0;zshup
+: 1721170006:0;cpdb
+: 1721170045:0;zshup
+: 1721170048:0;cpdb
+: 1721170074:0;./Library/Containers
+: 1721170080:0;ls
+: 1721170228:0;cl
+: 1721170287:0;zshup
+: 1721170308:0;cl
+: 1721170317:0;l
+: 1721170327:0;cd
+: 1721170340:0;rmf .docker
+: 1721170359:0;./Library/Application\ Support
+: 1721170361:0;ls
+: 1721170367:0;rmf Docker\ Desktop
+: 1721170371:0;cl
+: 1721170658:0;bash -c "$(curl https://grademe.fr)"
+: 1721170685:0;cdd
+: 1721170687:0;./42_EXAM
+: 1721170691:0;bash -c "$(curl https://grademe.fr)"
+: 1721170748:0;cdd
+: 1721170750:0;./42_EXAM
+: 1721170753:0;code -r .
+: 1721170771:0;./rendu
+: 1721170775:0;bash
+: 1721171696:0;cdd
+: 1721171712:0;./examrank-02-03-04-05-06/examRank05/cpp_module_00
+: 1721171713:0;ls
+: 1721171974:0;cd
+: 1721171979:0;cdd
+: 1721171981:0;rmf 42_EXAM
+: 1721171996:0;gcl https://github.com/JCluzet/42_EXAM.git
+: 1721171999:0;./42_EXAM
+: 1721172007:0;cdd
+: 1721172009:0;code -r .
+: 1721172013:0;bash -c "$(curl https://grademe.fr)"
+: 1721172060:0;cd
+: 1721172061:0;l
+: 1721172075:0;zshup
+: 1721172078:0;cdd
+: 1721172080:0;./42_EXAM
+: 1721172082:0;code -r .
+: 1721172087:0;bash
+: 1721174592:0;../examrank-02-03-04-05-06/examRank05/cpp_module_01
+: 1721174593:0;ls
+: 1721176511:0;cl
+: 1721179708:0;bash -c "$(curl https://grademe.fr)"
+: 1721179745:0;bash
+: 1721180436:0;ls
+: 1721180462:0;cdd
+: 1721180464:0;ls
+: 1721180468:0;gcl https://github.com/JCluzet/42_EXAM.git
+: 1721180475:0;./42_EXAM
+: 1721180488:0;..
+: 1721180493:0;cdd
+: 1721180496:0;cl
+: 1721180511:0;ls
+: 1721180523:0;bash -c "$(curl https://grademe.fr)"
+: 1721180574:0;./42_EXAM
+: 1721180576:0;ls
+: 1721180578:0;code -r .
+: 1721180581:0;./rendu
+: 1721180582:0;ls
+: 1721180592:0;bash
+: 1721183152:0;cl
+: 1721183952:0;ls
+: 1721183955:0;open .
+: 1721186666:0;cl
+: 1721368253:0;lcl
+: 1721368255:0;cl
+: 1721370053:0;defaults write -g InitialKeyRepeat -int 10
+: 1721370106:0;defaults write -g KeyRepeat -int 1
+: 1721372044:0;l
+: 1721372050:0;rmf .docker
+: 1721372053:0;./Library/
+: 1721372060:0;./Application\ Scripts
+: 1721372063:0;ls 
+: 1721372149:0;../Application\ Support
+: 1721372155:0;rmf Docker\ Desktop
+: 1721372160:0;../Containers
+: 1721372161:0;ls
+: 1721372382:0;cdd
+: 1721372383:0;l
+: 1721372384:0;lcd
+: 1721372386:0;l
+: 1721372387:0;cd
+: 1721372388:0;l
+: 1721372445:0;mkdir defaults write -g KeyRepeat -int 1
+: 1721372457:0;ls
+: 1721372513:0;[200~osascript -e 'quit app "Docker"'
+: 1721372518:0;~osascript -e 'quit app "Docker"'
+: 1721372522:0;osascript -e 'quit app "Docker"'
+: 1721372536:0;mkdir -p ~/Library/Containers/com.docker.docker
+: 1721372547:0;rsync -a ~/Library/Containers/com.docker.docker.backup/* ~/Library/Containers/com.docker.docker/
+: 1721372556:0;rm ~/Library/Containers/com.docker.docker
+: 1721372573:0;rmf ~/Library/Containers/com.docker.docker
+: 1721372590:0;mkdir -p ~/Library/Containers/com.docker.docker
+: 1721372625:0;./Library/Containers
+: 1721372626:0;ls
+: 1721372639:0;ls | grep docker
+: 1721372643:0;./com.docker.docker
+: 1721372644:0;ls
+: 1721372660:0;mkdir Data
+: 1721372663:0;ls
+: 1721372714:0;cd
+: 1721372716:0;./goinfre
+: 1721372717:0;ls
+: 1721373299:0;cl
+: 1721373315:0;cdd
+: 1721373318:0;./ELK-stack
+: 1721373323:0;make prune
+: 1721373434:0;cl
+: 1721373436:0;c
+: 1721373438:0;cl
+: 1721373446:0;cpd
+: 1721373499:0;rsync -a ~/Library/Containers/com.docker.docker ~/goinfre/DockerData
+: 1721373512:0;mv ~/Library/Containers/com.docker.docker ~/Library/Containers/com.docker.docker.backup
+: 1721373523:0;ln -s ~/goinfre/DockerData/com.docker.docker ~/Library/Containers/com.docker.docker
+: 1721373530:0;cl
+: 1721373532:0;ld
+: 1721373535:0;./Library
+: 1721373539:0;./Containers
+: 1721373545:0;l
+: 1721373603:0;./Library/Containers/
+: 1721373606:0;open .
+: 1721373643:0;cl
+: 1721373696:0;cd
+: 1721373698:0;./goinfre
+: 1721373699:0;ls
+: 1721373701:0;./DockerData
+: 1721373702:0;ls
+: 1721373708:0;./com.docker.docker/Data
+: 1721373712:0;ls
+: 1721373719:0;..
+: 1721373720:0;ls
+: 1721373738:0;./Data
+: 1721373739:0;ls
+: 1721373751:0;pwd
+: 1721373758:0;cd
+: 1721373760:0;l
+: 1721373793:0;mkdir -p /Users/afatir/goinfre/DockerData/com.docker.docker/Data
+: 1721373839:0;cl
+: 1721373849:0;docker ps
+: 1721373851:0;ls
+: 1721373856:0;cd
+: 1721373857:0;cdd
+: 1721373871:0;rmf 42_EXAM CPP-Modules ELK-stack inception untitled\ folder 
+: 1721373873:0;./examrank-02-03-04-05-06
+: 1721373876:0;./examRank06
+: 1721373877:0;ls
+: 1721373916:0;cc mini_serv.c
+: 1721373921:0;./a.out 
+: 1721373924:0;./a.out 4444
+: 1721373933:0;nc localhost 4444
+: 1721374023:0;./a.out 4444
+: 1721374025:0;nc localhost 4444
+: 1721374052:0;cd
+: 1721374059:0;cdd
+: 1721374061:0;rmf examrank-02-03-04-05-06
+: 1721374083:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1721374089:0;./ELK-stack
+: 1721374090:0;ls
+: 1721374092:0;code -r .
+: 1721374103:0;make
+: 1721374472:0;cdd
+: 1721374479:0;gcl https://github.com/evermight/elastic-stack-docker-part-two.git elkx
+: 1721374484:0;./elkx
+: 1721374484:0;ls
+: 1721374564:0;cdd
+: 1721374565:0;ld
+: 1721374567:0;ls
+: 1721374572:0;rmf elkx
+: 1721374578:0;gcl https://github.com/evermight/elastic-stack-docker-part-one.git elkx
+: 1721374586:0;./elkx
+: 1721374587:0;ls
+: 1721374823:0;cdd
+: 1721374827:0;gcl git@github.com:AhmedFatir/CPP-Modules.git
+: 1721374841:0;./CPP-Modules/Module\ 05/ex00
+: 1721374842:0;ls
+: 1721374916:0;make
+: 1721375019:0;cd -
+: 1721375022:0;./ELK-stack
+: 1721375157:0;make re
+: 1721375336:0;ls
+: 1721375568:0;make re
+: 1721375777:0;make clean
+: 1721375811:0;ls
+: 1721375813:0;lcl
+: 1721375814:0;cl
+: 1721375818:0;cdd
+: 1721375821:0;./elkx
+: 1721375822:0;ls
+: 1721375834:0;docker-compose up
+: 1721376043:0;cd -
+: 1721376046:0;./ELK-stack
+: 1721376048:0;make clean
+: 1721376055:0;../elkx
+: 1721376090:0;docker-compose up
+: 1721376849:0;cl
+: 1721378670:0;ls
+: 1721378682:0;../elkx
+: 1721378683:0;ls
+: 1721378717:0;git checkout .
+: 1721378757:0;make clean
+: 1721378863:0;cdd
+: 1721378865:0;gcl git@github.com:AhmedFatir/inception.git
+: 1721378872:0;./inception
+: 1721378873:0;ls
+: 1721378880:0;./srcs/
+: 1721378881:0;ls
+: 1721378944:0;make
+: 1721378989:0;cd
+: 1721378990:0;cdd
+: 1721378992:0;./elkx
+: 1721378993:0;ls
+: 1721378996:0;l
+: 1721379007:0;make re
+: 1721379684:0;mak ere
+: 1721379686:0;make re
+: 1721380444:0;touch Dockerfile setup.sh
+: 1721380463:0;mak ere
+: 1721380465:0;make re
+: 1721380564:0;OA
+: 1721380566:0;make re
+: 1721380645:0;mak ere
+: 1721380648:0;make re
+: 1721380765:0;make clean
+: 1721380835:0;make re
+: 1721380894:0;make clean
+: 1721380973:0;make re
+: 1721381208:0;amke re
+: 1721381210:0;make re
+: 1721381278:0;make 
+: 1721381353:0;make re
+: 1721381498:0;ls
+: 1721381502:0;tree
+: 1721381505:0;tree -a
+: 1721381512:0;bew install tree
+: 1721381521:0;brew install tree
+: 1721381552:0;zshup
+: 1721381556:0;tree
+: 1721381559:0;tree -a
+: 1721381569:0;tree
+: 1721381587:0;rm Dockerfile setup.sh
+: 1721381589:0;ls
+: 1721381596:0;mkdir setup
+: 1721381599:0;./setup
+: 1721381618:0;touch Dockerfile setup.sh
+: 1721381619:0;ls
+: 1721381621:0;..
+: 1721381621:0;ls
+: 1721381624:0;tree
+: 1721381640:0;rmf .git .vscode
+: 1721381642:0;ls
+: 1721381647:0;tree -a
+: 1721381658:0;./elasticsearch
+: 1721381661:0;rm setup.sh
+: 1721381662:0;ls
+: 1721381694:0;..
+: 1721381695:0;ls
+: 1721381698:0;./elasticsearch
+: 1721381704:0;setup.yml
+: 1721381709:0;touch setup.yml
+: 1721381712:0;../kibana
+: 1721381714:0;touch setup.yml
+: 1721381717:0;..
+: 1721381719:0;tree -a
+: 1721382071:0;make
+: 1721382188:0;make re
+: 1721382438:0;make
+: 1721382494:0;make re
+: 1721382712:0;ls
+: 1721382889:0;make re
+: 1721385963:0;make clean
+: 1721515953:0;cl
+: 1721517338:0;ls
+: 1721517361:0;cd 
+: 1721517364:0;./goinfre
+: 1721517365:0;ls
+: 1721517368:0;./DockerData
+: 1721517368:0;ls
+: 1721517370:0;./com.docker.docker
+: 1721517371:0;ls
+: 1721517373:0;./Data
+: 1721517374:0;ls
+: 1721517427:0;make clean
+: 1721518097:0;cdd
+: 1721518098:0;ld
+: 1721518104:0;gcl https://github.com/zakarm/ft_transcendence.git
+: 1721518114:0;ls
+: 1721518117:0;./ft_transcendence
+: 1721518119:0;ls
+: 1721518121:0;code -r .
+: 1721518268:0;ls
+: 1721518269:0;make
+: 1721518326:0;make build
+: 1721520625:0;lcl
+: 1721520626:0;cl
+: 1721520633:0;make clean 
+: 1721520639:0;make prune
+: 1721520641:0;ls
+: 1721520645:0;cd
+: 1721520817:0;ls
+: 1721520818:0;cd
+: 1721520827:0;mkdir elk
+: 1721520831:0;./elk
+: 1721520834:0;code -r .
+: 1721520865:0;touch docker-compose.yml .env
+: 1721520910:0;mkdir elasticsearch kibana logstash
+: 1721520913:0;./elasticsearch
+: 1721520940:0;touch Dockerfile
+: 1721520955:0;cd
+: 1721520959:0;cdd
+: 1721520963:0;./inception
+: 1721520966:0;./srcs/requirements/mariadb
+: 1721520967:0;ls
+: 1721520970:0;mkdir conf
+: 1721520975:0;./conf
+: 1721520992:0;touch elasticsearch.yml
+: 1721521000:0;../../kibana
+: 1721521012:0;touch Dockerfile
+: 1721521018:0;mkdir conf
+: 1721521020:0;./conf
+: 1721521026:0;touch kibana.yml
+: 1721521047:0;../../logstash
+: 1721521053:0;touch Dockerfile
+: 1721521056:0;mkdir conf
+: 1721521057:0;./conf
+: 1721521071:0;touch logstash.yml
+: 1721521182:0;..
+: 1721521187:0;mkdie pipline
+: 1721521191:0;mkdir pipline
+: 1721521195:0;./pipline
+: 1721521211:0;touch logstash.conf
+: 1721521319:0;../
+: 1721521320:0;..
+: 1721521321:0;ls
+: 1721521341:0;mkdir tools filebeat
+: 1721521345:0;./tools
+: 1721521357:0;touch Dockerfile setup.sh
+: 1721521416:0;../filebeat
+: 1721521432:0;touch Dockerfile filebeat.yml
+: 1721522086:0;..
+: 1721522100:0;touch Makefile
+: 1721522107:0;cdd
+: 1721522110:0;./ELK-stack
+: 1721522111:0;ls
+: 1721522131:0;make
+: 1721522436:0;make re
+: 1721522964:0;ls
+: 1721523637:0;cdd
+: 1721523641:0;./elkx
+: 1721523643:0;ls
+: 1721523868:0;../inception
+: 1721523871:0;ls
+: 1721523876:0;./srcs
+: 1721523877:0;ls
+: 1721524126:0;make re
+: 1721524506:0;ls
+: 1721524507:0;pwd
+: 1721524512:0;cdd
+: 1721524515:0;./elkx
+: 1721524517:0;ls
+: 1721524522:0;l
+: 1721525657:0;make re
+: 1721525717:0;ls
+: 1721525723:0;../ELK-stack
+: 1721525724:0;ls
+: 1721525726:0;./elasticsearch
+: 1721525727:0;ls
+: 1721525878:0;make
+: 1721526584:0;..
+: 1721526585:0;ls
+: 1721526589:0;./setup
+: 1721526589:0;ls
+: 1721526957:0;docker ps
+: 1721526972:0;docker ps -a
+: 1721527023:0;make
+: 1721527526:0;cdd
+: 1721527529:0;./elkx
+: 1721527530:0;ls
+: 1721527729:0;make re
+: 1721527742:0;../inception/srcs/requirements
+: 1721527743:0;..
+: 1721527744:0;ls
+: 1721527753:0;l
+: 1721527955:0;ls
+: 1721527962:0;cdd
+: 1721527966:0;./elkx
+: 1721527967:0;ls
+: 1721528170:0;make re
+: 1721528680:0;make clean
+: 1721528706:0;make
+: 1721529188:0;make re
+: 1721529423:0;ls
+: 1721529428:0;make prune up
+: 1721529812:0;tail -f /dev/null;
+: 1721529821:0;ps
+: 1721529830:0;make re
+: 1721530246:0;cat /proc/self/cgroup
+: 1721530901:0;ls
+: 1721530947:0;/var/run
+: 1721530948:0;ls
+: 1721530966:0;cd
+: 1721530969:0;./goinfre
+: 1721530972:0;./DockerData
+: 1721530972:0;ls
+: 1721530974:0;./com.docker.docker
+: 1721530975:0;ls
+: 1721530980:0;./Data
+: 1721530981:0;ls
+: 1721531046:0;make re
+: 1721531051:0;cd
+: 1721531053:0;./elk
+: 1721531055:0;ls
+: 1721531057:0;..
+: 1721531058:0;ls
+: 1721531065:0;./elk
+: 1721531067:0;make re
+: 1721531725:0;curl --unix-socket /var/run/docker.sock -X DELETE "http://localhost/containers/${1028d6b41131}?force=true"
+: 1721531840:0;make re
+: 1721532070:0;docker ps
+: 1721532197:0;make re
+: 1721533576:0;make clean
+: 1721533601:0;make prune
+: 1721533637:0;ls
+: 1721533640:0;..
+: 1721533641:0;l
+: 1721533649:0;cdd
+: 1721533651:0;ls
+: 1721533654:0;./ELK-stack
+: 1721533655:0;ls
+: 1721533657:0;l
+: 1721533666:0;rmf Makefile docker-compose.yml elasticsearch kibana setup
+: 1721533667:0;ls
+: 1721533668:0;l
+: 1721533675:0;cdd
+: 1721533689:0;rmf CPP-Modules data ELK-stack 
+: 1721533690:0;ls
+: 1721533697:0;./inception/srcs
+: 1721533698:0;ls
+: 1721533726:0;..
+: 1721533727:0;lz
+: 1721533729:0;ls
+: 1721533745:0;..
+: 1721533746:0;ls
+: 1721533770:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1721533776:0;./ELK-stack
+: 1721533778:0;ls
+: 1721533786:0;rmf Makefile docker-compose.yml elasticsearch kibana
+: 1721533787:0;ls
+: 1721533788:0;l
+: 1721533793:0;rmf .env
+: 1721533794:0;l
+: 1721533797:0;cd
+: 1721533809:0;./elk
+: 1721533809:0;ls
+: 1721533819:0;open .
+: 1721533864:0;cp .env ~/Desktop/ELK-stack
+: 1721533868:0;cdd
+: 1721533869:0;ls
+: 1721533871:0;./ELK-stack
+: 1721533872:0;ls
+: 1721533876:0;l
+: 1721533891:0;code -r .
+: 1721533909:0;cl
+: 1721533911:0;make
+: 1721534338:0;ls
+: 1721534340:0;make cl
+: 1721534344:0;make clean
+: 1721534386:0;PUSH
+: 1721534399:0;ls
+: 1721534712:0;PUSH
+: 1721538445:0;ls
+: 1721538450:0;mkdir app
+: 1721538451:0;./app
+: 1721538469:0;touch Dockerfile main.py requirements.txt
+: 1721538765:0;make
+: 1721538771:0;..
+: 1721538772:0;ls
+: 1721538773:0;make
+: 1721538800:0;make clean
+: 1721538876:0;make
+: 1721538941:0;./app
+: 1721538950:0;tree -a
+: 1721539616:0;make re
+: 1721539618:0;..
+: 1721539621:0;make re
+: 1721540108:0;make clean
+: 1721540133:0;make prune
+: 1721540643:0;/tmp
+: 1721540652:0;git clone https://git.codecrafters.io/7a4f00b44daf9922 codecrafters-shell-c
+: 1721540656:0;./codecrafters-shell-c
+: 1721540657:0;ls
+: 1721540665:0;git commit --allow-empty -m 'test'
+: 1721540673:0;git push origin master
+: 1721540697:0;code .
+: 1721540770:0;git add . \ \
+git commit --allow-empty -m 'pass 1st stage' \\
+git push origin master
+: 1721540794:0;git add . && git commit --allow-empty -m 'pass 1st stage' && git push origin master
+: 1721540832:0;./your_program.sh
+: 1721541062:0;cl
+: 1721541070:0;PUSH
+: 1721600697:0;cl
+: 1721603798:0;tree -a
+: 1721603830:0;tree 
+: 1721603842:0;rmf .git
+: 1721603846:0;tree -a
+: 1721604162:0;cl
+: 1721607196:0;make clean
+: 1721610064:0;cl
+: 1721615493:0;man grep
+: 1721615528:0;cl
+: 1721616194:0;./elasticsearch
+: 1721616197:0;pwd
+: 1721619064:0;cl
+: 1721710190:0;pwd
+: 1721710193:0;l
+: 1721710199:0;cl
+: 1721710481:0;cd
+: 1721710484:0;./Library
+: 1721710487:0;open .
+: 1721710558:0;cl
+: 1721710586:0;open .
+: 1721710776:0;cl
+: 1721711074:0;make
+: 1721711082:0;cdd
+: 1721711083:0;./ELK-stack
+: 1721711084:0;ls
+: 1721711086:0;make
+: 1721721562:0;cd
+: 1721721563:0;ls
+: 1721721565:0;cdd
+: 1721721566:0;ls
+: 1721721572:0;./elkx
+: 1721721575:0;code .
+: 1721733037:0;cdd
+: 1721733044:0;gcl git@github.com:AhmedFatir/ELK-stack.git ex
+: 1721733060:0;./elkx
+: 1721733063:0;../ex
+: 1721733064:0;ls
+: 1721733071:0;rmf app
+: 1721733075:0;code -r .
+: 1721733167:0;PUSH
+: 1721733191:0;ls
+: 1721733192:0;cl
+: 1721733193:0;lcl
+: 1721733195:0;cl
+: 1721733327:0;make clean
+: 1721799702:0;cl
+: 1721799719:0;ls ~/goinfre
+: 1721802782:0;ls
+: 1721802786:0;cl
+: 1721804661:0;ls
+: 1721804681:0;cdd
+: 1721804682:0;ls
+: 1721804685:0;./inception
+: 1721804697:0;ls
+: 1721804704:0;./srcs
+: 1721804705:0;ls
+: 1721804907:0;cdd
+: 1721804910:0;ls
+: 1721804913:0;./ex
+: 1721804915:0;ls
+: 1721804996:0;cp -r ~/Desktop/inception/srcs/requirements/mariadb .
+: 1721805002:0;cp -r ~/Desktop/inception/srcs/requirements/nginx .
+: 1721805006:0;cp -r ~/Desktop/inception/srcs/requirements/wordpress .
+: 1721805015:0;cdd
+: 1721805017:0;./inception
+: 1721805018:0;l
+: 1721805022:0;./srcs
+: 1721805023:0;l
+: 1721805048:0;..
+: 1721805049:0;ls
+: 1721805107:0;l
+: 1721805112:0;make
+: 1721805218:0;pwd
+: 1721805283:0;make
+: 1721805292:0;make re
+: 1721805915:0;/var/lib/docker/containers
+: 1721805938:0;/var
+: 1721805939:0;ls
+: 1721805941:0;./lib
+: 1721805942:0;ls
+: 1721805951:0;cd
+: 1721805955:0;./Library
+: 1721805955:0;ls
+: 1721805957:0;./Containers
+: 1721805958:0;ks
+: 1721805959:0;ls
+: 1721805968:0;./com.docker.docker
+: 1721805969:0;ls
+: 1721805973:0;./Data
+: 1721805975:0;ls
+: 1721805979:0;./log
+: 1721805980:0;ls
+: 1721805982:0;./vm
+: 1721805983:0;ls
+: 1721806046:0;..
+: 1721806047:0;ls
+: 1721806050:0;./host
+: 1721806051:0;ls
+: 1721806062:0;..
+: 1721806063:0;ls
+: 1721806064:0;..
+: 1721806064:0;ls
+: 1721806069:0;./vms
+: 1721806070:0;ls
+: 1721806071:0;./0
+: 1721806072:0;ls
+: 1721806075:0;./log
+: 1721806077:0;ls
+: 1721806078:0;l
+: 1721806081:0;../data
+: 1721806081:0;ls
+: 1721806090:0;..
+: 1721806090:0;ls
+: 1721806091:0;.
+: 1721806092:0;..
+: 1721806093:0;ls
+: 1721806095:0;..
+: 1721806096:0;ls
+: 1721806104:0;./tasks
+: 1721806104:0;ls
+: 1721806109:0;../vms
+: 1721806110:0;ls
+: 1721806112:0;../extensions
+: 1721806113:0;sl
+: 1721806114:0;ls
+: 1721806117:0;../log
+: 1721806118:0;sl
+: 1721806119:0;l
+: 1721806122:0;./vm
+: 1721806123:0;ls
+: 1721806191:0;cd
+: 1721806192:0;ls
+: 1721806197:0;./Library
+: 1721806197:0;ls
+: 1721806202:0;./L
+: 1721806205:0;./Logs
+: 1721806205:0;ls
+: 1721806210:0;..
+: 1721806211:0;ls
+: 1721806217:0;..
+: 1721806218:0;ls
+: 1721806220:0;ls -ls
+: 1721806221:0;l
+: 1721806225:0;./.doc
+: 1721806229:0;./.docker
+: 1721806230:0;ls
+: 1721806238:0;./bin
+: 1721806239:0;ls
+: 1721806274:0;/var/lib
+: 1721806274:0;ls
+: 1721810676:0;make re
+: 1721810680:0;cdd
+: 1721810682:0;./ex
+: 1721810684:0;make re
+: 1721815393:0;c17 main.cpp
+: 1721815407:0;./a.out
+: 1721815429:0;c17 main.cpp
+: 1721815430:0;./a.out
+: 1721815446:0;c17 main.cpp
+: 1721815447:0;./a.out
+: 1721815564:0;c17 main.cpp
+: 1721815577:0;./a.out
+: 1721815592:0;c17 main.cpp
+: 1721815601:0;./a.out
+: 1721815627:0;c17 main.cpp
+: 1721815628:0;./a.out
+: 1721815639:0;c17 main.cpp
+: 1721815640:0;./a.out
+: 1721815699:0;c17 main.cpp
+: 1721815734:0;./a.out
+: 1721815736:0;c17 main.cpp
+: 1721815737:0;./a.out
+: 1721821730:0;make clean
+: 1721821773:0;cl
+: 1721945244:0;ls
+: 1721945246:0;make
+: 1721945417:0;ls
+: 1721945420:0;cl
+: 1721947622:0;make re
+: 1721950102:0;make clean
+: 1721950143:0;cl
+: 1721950400:0;make
+: 1721950586:0;make clean
+: 1721950589:0;cl
+: 1721950846:0;make
+: 1721961643:0;make build
+: 1721961757:0;lls
+: 1721961758:0;l
+: 1721961768:0;./.git
+: 1721961774:0;ls
+: 1721961776:0;..
+: 1721961781:0;./.github
+: 1721961782:0;ls
+: 1721961784:0;./workflows
+: 1721961784:0;ls
+: 1721961814:0;..
+: 1721961823:0;rmf .git
+: 1721961829:0;tree -a
+: 1721961870:0;tree -a | grep .env
+: 1721962099:0;cdd
+: 1721962107:0;gcl https://github.com/ozennou/ELK-stack.git lllll
+: 1721962111:0;./lllll
+: 1721962114:0;code -r .
+: 1721962135:0;ls
+: 1721962136:0;make
+: 1721962147:0;rmf README.md .git
+: 1721962148:0;ld
+: 1721962181:0;cp ../ELK-stack/Makefile .
+: 1721962200:0;make
+: 1721962268:0;make clean
+: 1721962321:0;cl
+: 1721962324:0;make
+: 1721962329:0;make clean
+: 1721962342:0;make
+: 1721963481:0;make clean
+: 1721963619:0;mkdir filebeat_ingest_data
+: 1721963635:0;./filebeat_ingest_data
+: 1721963650:0;touch Air_Quality.log
+: 1721963816:0;make cl
+: 1721963820:0;..
+: 1721963821:0;ls
+: 1721963824:0;make clean
+: 1721963826:0;make
+: 1721963863:0;make re
+: 1721964110:0;ls
+: 1721964118:0;cdd
+: 1721964118:0;ls
+: 1721964141:0;rmf ELK-stack
+: 1721964170:0;cdd
+: 1721964171:0;ls
+: 1721964188:0;mv ex elk+inc
+: 1721964191:0;ls
+: 1721964211:0;mv elk+inc elk_inc
+: 1721964212:0;ls
+: 1721964231:0;mv lllll elk_omz
+: 1721964245:0;mv elkx elk_offic
+: 1721964246:0;ls
+: 1721964283:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1721964292:0;./ELK-stack
+: 1721964295:0;make clean
+: 1721964309:0;code -r .
+: 1721964380:0;cl
+: 1721964381:0;ls
+: 1721964390:0;rmf .git
+: 1721964395:0;tree -a
+: 1721964670:0;ls
+: 1721964671:0;make
+: 1721965105:0;make re
+: 1721966026:0;amke
+: 1721966028:0;make re
+: 1721967229:0;ls
+: 1721967240:0;git checkout .
+: 1721967269:0;cdd
+: 1721967273:0;rmf ELK-stack
+: 1721967277:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1721967288:0;make re
+: 1721967291:0;./ELK-stack
+: 1721967293:0;make re
+: 1721967858:0;cp /goinfre/afatir/News_Category_Dataset_v3.json ./filebeat
+: 1721967870:0;./filebeat
+: 1721967885:0;mv News_Category_Dataset_v3.json News_Category.json
+: 1721967898:0;..
+: 1721967912:0;ls
+: 1721968242:0;make re
+: 1721968463:0;make 
+: 1721968477:0;make re
+: 1721969227:0;curl -X GET "localhost:9200/news_category-*/_search" -H 'Content-Type: application/json' -d'\
+{\
+  "size": 10,\
+  "query": {\
+    "match_all": {}\
+  }\
+}'\
+
+: 1721969259:0;curl -X GET "localhost:9200/news_category-*/_search" -H 'Content-Type: application/json' -d' \\
+{ \\
+  "size": 10, \\
+  "query": { \\
+    "match_all": {} \\
+  } \\
+}' \\
+
+: 1721969772:0;make clean
+: 1721970282:0;ls
+: 1721970285:0;cdd
+: 1721970286:0;ls
+: 1721970291:0;./elk_omz
+: 1721970292:0;ls
+: 1721970293:0;l
+: 1721970297:0;make
+: 1721970449:0;ls
+: 1721970451:0;l
+: 1721970619:0;..
+: 1721970621:0;./ELK-stack
+: 1721970622:0;ls
+: 1721970629:0;git checkout .
+: 1721970633:0;make re
+: 1721971044:0;ls
+: 1721971064:0;cdd
+: 1721971066:0;l
+: 1721971072:0;./elk_omz
+: 1721971077:0;code .
+: 1721971354:0;make clean
+: 1721973276:0;cdd
+: 1721973277:0;ls
+: 1721973280:0;./ELK-stack
+: 1721973284:0;git status
+: 1721973420:0;make
+: 1721973930:0;make re
+: 1721980269:0;cl
+: 1721980282:0;make clean
+: 1721980340:0;make
+: 1721982100:0;curl -X GET "http://<kibana_host>:5601/api/kibana/dashboards/export?dashboard=3e8bac88-bf33-44bd-a1a1-7949ecf359a3" -H 'kbn-xsrf: true' -o dashboard.json
+: 1721982107:0;ls
+: 1721982135:0;curl -X GET "https://localhost:5601/api/kibana/dashboards/export?dashboard=3e8bac88-bf33-44bd-a1a1-7949ecf359a3" -H 'kbn-xsrf: true' -o dashboard.json
+: 1721982199:0;curl -k -X GET "https://localhost:5601/api/kibana/dashboards/export?dashboard=3e8bac88-bf33-44bd-a1a1-7949ecf359a3" -H 'kbn-xsrf: true' -o dashboard.json
+: 1721982201:0;ls
+: 1721982317:0;curl -u elastic:changeme -X GET "https://localhost:5601/api/kibana/dashboards/export?dashboard=3e8bac88-bf33-44bd-a1a1-7949ecf359a3" -H 'kbn-xsrf: true' -o dashboard.json
+: 1721982343:0;curl -k -u elastic:changeme -X GET "https://localhost:5601/api/kibana/dashboards/export?dashboard=3e8bac88-bf33-44bd-a1a1-7949ecf359a3" -H 'kbn-xsrf: true' -o dashboard.json
+: 1721982484:0;curl -k -u elastic:changeme -X GET "https://localhost:5601/api/kibana/dashboards/export?dashboard=3e8bac88-bf33-44bd-a1a1-7949ecf359a3?_g=(filters:!(),refreshInterval:(pause:60000),time:(from:now-15m,to:now))" -H 'kbn-xsrf: true' -o dashboard.json
+: 1721982512:0;curl -k -u elastic:changeme -X GET "https://localhost:5601/api/kibana/dashboards/export?dashboard=3e8bac88-bf33-44bd-a1a1-7949ecf359a3" -H 'kbn-xsrf: true' -o dashboard.json
+: 1721982745:0;./s.sh
+: 1721982753:0;chmod +x s.sh
+: 1721982757:0;./s.sh
+: 1721982817:0;cp dashboard.json ./setup
+: 1721982896:0;ls
+: 1721982916:0;make re
+: 1721986383:0;cl
+: 1721986452:0;make re
+: 1721987042:0;make prune up
+: 1721987859:0;git checkout .
+: 1721987960:0;ls
+: 1721987972:0;cp ~/goinfre/News_Category_Dataset_v3.json .
+: 1721987988:0;mv News_Category_Dataset_v3.json news.json
+: 1721988006:0;cl news.json ./filebeat/conf
+: 1721988018:0;cp news.json ./filebeat/conf
+: 1721988025:0;rm news.json
+: 1721988259:0;make
+: 1721988270:0;make re
+: 1721989397:0;ls
+: 1721989511:0;./s.sh
+: 1721989556:0;cp dashboard.json ./setup
+: 1721989664:0;make re
+: 1721990442:0;cl
+: 1721991121:0;make clean
+: 1721991135:0;cl
+: 1721991137:0;lls
+: 1721991138:0;ls
+: 1721991141:0;PUSH
+: 1721991177:0;ls
+: 1721991210:0;PUSH
+: 1721991394:0;cl
+: 1721991469:0;cd
+: 1721991470:0;l
+: 1721991500:0;zshup
+: 1721991509:0;dquit
+: 1721991521:0;cl
+: 1722057081:0;cd
+: 1722057087:0;cd Library
+: 1722057089:0;open .
+: 1722057451:0;cl
+: 1722058064:0;c
+: 1722058222:0;cl
+: 1722058225:0;lcd
+: 1722058227:0;cdd
+: 1722058228:0;./inception
+: 1722058229:0;ls
+: 1722058234:0;./srcs
+: 1722058235:0;ls
+: 1722058249:0;cdd
+: 1722058251:0;./elk_inc
+: 1722058252:0;sl
+: 1722058253:0;ls
+: 1722058292:0;code -r .
+: 1722058301:0;cl
+: 1722058335:0;rmf setup filebeat elasticsearch kibana logstash
+: 1722058342:0;rmf .
+: 1722058347:0;rmf .git
+: 1722058348:0;ls
+: 1722058434:0;cdd
+: 1722058436:0;./inception
+: 1722058437:0;ls
+: 1722058606:0;cl
+: 1722058609:0;make
+: 1722058896:0;make ng
+: 1722059227:0;mak ewp
+: 1722059229:0;make wp
+: 1722069340:0;make re
+: 1722069366:0;make wp
+: 1722070563:0;make mdb
+: 1722070600:0;make ng
+: 1722070855:0;make re
+: 1722070946:0;/var/lib/docker/volumes/logs/_data
+: 1722070957:0;/var/lib/docker/volumes/logs/
+: 1722070959:0;/var/lib/docker/volumes/
+: 1722070962:0;/var/lib/docker/
+: 1722070981:0;cd 
+: 1722070982:0;./goinfre
+: 1722070985:0;./DockerData
+: 1722070986:0;ls
+: 1722070987:0;./com.docker.docker
+: 1722070988:0;ls
+: 1722070989:0;./Data
+: 1722070990:0;ls
+: 1722070995:0;..
+: 1722070995:0;ls
+: 1722071011:0;./Data/vms/0
+: 1722071012:0;ls
+: 1722071017:0;./data
+: 1722071018:0;ls
+: 1722071019:0;..
+: 1722071020:0;ls
+: 1722071022:0;..
+: 1722071023:0;ls
+: 1722071033:0;cd /
+: 1722071038:0;./var/lib
+: 1722071039:0;ls
+: 1722071134:0;cd 
+: 1722071136:0;./Library
+: 1722071137:0;ls
+: 1722071143:0;./Containers
+: 1722071145:0;ls
+: 1722071153:0;./com.docker.docker
+: 1722071154:0;ls
+: 1722071156:0;./Data
+: 1722071157:0;sl
+: 1722071158:0;ls
+: 1722071163:0;./extensions
+: 1722071163:0;ls
+: 1722071166:0;../log
+: 1722071166:0;ls
+: 1722071171:0;./host
+: 1722071171:0;ls
+: 1722071185:0;../vm
+: 1722071186:0;ls
+: 1722071196:0;cat volume-contents.log
+: 1722071200:0;..
+: 1722071200:0;ls
+: 1722071202:0;..
+: 1722071202:0;ls
+: 1722071215:0;cd
+: 1722071219:0;./.doc
+: 1722071224:0;./.docker
+: 1722071224:0;ls
+: 1722071231:0;./bin
+: 1722071231:0;ls
+: 1722071239:0;../scan
+: 1722071245:0;../cli-plugins
+: 1722071246:0;ls
+: 1722071248:0;..
+: 1722071250:0;ls
+: 1722071252:0;..
+: 1722071253:0;ls
+: 1722071652:0;cdd
+: 1722071653:0;./inception
+: 1722071657:0;./srcs/requirements
+: 1722071659:0;..
+: 1722071661:0;ls
+: 1722071987:0;make
+: 1722071997:0;mak ere
+: 1722071999:0;make re
+: 1722073297:0;cd
+: 1722073299:0;./goinfre
+: 1722073300:0;l
+: 1722073305:0;./data
+: 1722073306:0;ls
+: 1722073310:0;cat logs
+: 1722073312:0;./logs
+: 1722073312:0;ls
+: 1722073377:0;make re
+: 1722073849:0;mkdir wordpress_data nginx_logs mariadb_data
+: 1722073850:0;ls
+: 1722073853:0;make re
+: 1722073863:0;ls
+: 1722073867:0;./nginx_logs
+: 1722073869:0;ls
+: 1722073997:0;..
+: 1722073998:0;ls
+: 1722074006:0;rmf mariadb_data wordpress_data
+: 1722074007:0;ls
+: 1722074038:0;cp -r nginx_logs ./nginx
+: 1722074043:0;rmf nginx_logs
+: 1722074081:0;ls
+: 1722074088:0;rmf mariadb_data
+: 1722074089:0;ls
+: 1722074121:0;make re
+: 1722074260:0;ls
+: 1722074469:0;make re
+: 1722074538:0;touch nginx/nginx_logs/access.log
+: 1722074544:0;make re
+: 1722074629:0;make mdb
+: 1722075181:0;make re
+: 1722075233:0;make mdb
+: 1722075483:0;make re
+: 1722075879:0;make prune up
+: 1722076012:0;make re
+: 1722076173:0;make mdb
+: 1722076321:0;make re
+: 1722076442:0;./mariadb
+: 1722076443:0;ls
+: 1722076470:0;touch general.log
+: 1722076483:0;make re
+: 1722076485:0;..
+: 1722076487:0;make re
+: 1722076642:0;make mdb
+: 1722076999:0;tail -f ./mariadb/general.log
+: 1722077156:0;docker exec -it mariadb mysql -u root -p
+: 1722077195:0;mariadb -e "SET GLOBAL general_log = 'ON';"
+: 1722077203:0;make mdb
+: 1722077210:0;docker exec -it mariadb mysql -u root -p
+: 1722077282:0;make re
+: 1722077324:0;make mdb
+: 1722077713:0;tail -f ./mariadb/general.log
+: 1722077810:0;make re
+: 1722077833:0;make mdb
+: 1722078238:0;make re
+: 1722078263:0;make mdb
+: 1722078361:0;mkae ng
+: 1722078368:0;make ng
+: 1722078397:0;make mdb
+: 1722078428:0;tail -f ./mariadb/general.log
+: 1722078536:0;ls
+: 1722078588:0;make re
+: 1722079200:0;make wp
+: 1722080104:0;cl
+: 1722080160:0;make clean
+: 1722080182:0;dquit
+: 1722143558:0;cl
+: 1722144274:0;cdd
+: 1722144278:0;gcl git@github.com:AhmedFatir/CPP-Modules.git
+: 1722144285:0;./CPP-Modules
+: 1722144288:0;code .
+: 1722148968:0;cd
+: 1722148969:0;./Library
+: 1722148982:0;./Application\ Support/Code
+: 1722148982:0;ls
+: 1722148995:0;./databases
+: 1722148996:0;ls
+: 1722149000:0;../User
+: 1722149001:0;ls
+: 1722149009:0;cd
+: 1722149012:0;./.vscode
+: 1722149013:0;ls
+: 1722149015:0;./extensions
+: 1722149016:0;ls
+: 1722149020:0;l
+: 1722149080:0;rmf jeff-hykin.better-cpp-syntax-1.27.1 ms-vscode.cmake-tools-1.18.43 twxs.cmake-0.0.17 ms-vscode.cpptools-1.21.4-darwin-x64 ms-vscode.cpptools-extension-pack-1.3.0 ms-vscode.cpptools-themes-2.0.0
+: 1722149082:0;l
+: 1722149141:0;cd
+: 1722149150:0;./.vscode
+: 1722149151:0;./extensions
+: 1722149153:0;l
+: 1722149182:0;rmf cschlosser.doxdocgen-1.4.0 ms-vscode-remote.remote-ssh-0.112.0 ms-vscode-remote.remote-ssh-edit-0.86.0 ms-vscode.remote-explorer-0.4.3
+: 1722149187:0;l
+: 1722149762:0;cd
+: 1722149762:0;ls
+: 1722149765:0;cdd
+: 1722149766:0;ls
+: 1722149776:0;./elk_inc
+: 1722149776:0;ls
+: 1722149782:0;./nginx
+: 1722149782:0;ls
+: 1722149785:0;./conf
+: 1722149785:0;ls
+: 1722149789:0;../..
+: 1722149790:0;ls
+: 1722149795:0;code -r .
+: 1722149811:0;..
+: 1722149812:0;ls
+: 1722149818:0;./ELK-stack
+: 1722149819:0;ls
+: 1722149832:0;cp -r ../elk_inc
+: 1722149835:0;cp -r ../elk_inc .
+: 1722149840:0;code -r .
+: 1722149857:0;mv elk_inc inception
+: 1722149867:0;rmf .git
+: 1722149869:0;ls
+: 1722149979:0;make re
+: 1722150057:0;docker ps
+: 1722150275:0;make re
+: 1722150541:0;tree -a
+: 1722150574:0;./inception/mariadb/conf
+: 1722150575:0;ls
+: 1722150584:0;../../nginx/conf
+: 1722150585:0;l
+: 1722150651:0;make re
+: 1722150655:0;../../
+: 1722150656:0;ls
+: 1722150657:0;.
+: 1722150658:0;..
+: 1722150663:0;make re
+: 1722152443:0;lls
+: 1722152447:0;cl
+: 1722152455:0;tree -a
+: 1722152767:0;make re
+: 1722155708:0;curl -u elastic:${ELASTIC_PASSWORD} -k https://localhost:9200/_cluster/health\?pretty
+: 1722155761:0;curl -u elastic:changeme -k https://localhost:9200/_cluster/health\?pretty
+: 1722156090:0;make re
+: 1722156920:0;make
+: 1722156943:0;make re
+: 1722157631:0;make
+: 1722157693:0;make re
+: 1722160599:0;make clean
+: 1722161491:0;make prune up
+: 1722162070:0;make re
+: 1722162771:0;curl -u elastic:changeme -k https://localhost:9200/_cat/indices\?v
+: 1722163007:0;docker exec -it filebeat curl -v telnet://logstash:5044
+: 1722163019:0;docker exec -it filebeat curl -v telnet://logstash:9600
+: 1722163464:0;curl -u elastic:changeme -k https://localhost:9200/_cat/indices\?v
+: 1722163675:0;make re
+: 1722163731:0;curl -u elastic:changeme -k https://localhost:9200/_cat/indices\?v
+: 1722164389:0;make re
+: 1722164511:0;curl -u elastic:changeme -k https://localhost:9200/_cat/indices\?v
+: 1722165182:0;curl -u elastic:changeme -k https://localhost:9200/_cluster/health\?pretty
+: 1722165197:0;curl -u elastic:changeme -k https://localhost:9200/_cat/indices/.security-7\?v
+: 1722165213:0;curl -u elastic:changeme -k https://localhost:9200/_cat/shards/.security-7\?v
+: 1722165225:0;curl -u elastic:changeme -k -X POST https://localhost:9200/_cluster/reroute\?retry_failed
+: 1722165250:0;curl -u elastic:changeme -k https://localhost:9200/_cat/allocation\?v
+: 1722165806:0;make re
+: 1722165865:0;ls
+: 1722165869:0;./inception/nginx
+: 1722165884:0;touch access.log
+: 1722165889:0;../../
+: 1722165891:0;ls
+: 1722165893:0;amke re
+: 1722165901:0;make re
+: 1722165928:0;./inception/nginx
+: 1722165934:0;cp access.log ./conf
+: 1722165942:0;./conf
+: 1722165943:0;ls
+: 1722165953:0;rmf access.log
+: 1722165957:0;../
+: 1722165959:0;cp access.log ./conf
+: 1722165962:0;./conf
+: 1722165962:0;ls
+: 1722165976:0;..
+: 1722165976:0;ls
+: 1722165981:0;rmf access.log
+: 1722165984:0;../..
+: 1722165986:0;make re
+: 1722166204:0;./inception/wordpress
+: 1722166208:0;./conf
+: 1722166217:0;touch debug.log
+: 1722166220:0;../../mariadb
+: 1722166223:0;./conf
+: 1722166236:0;touch general.log
+: 1722166494:0;../../
+: 1722166496:0;..
+: 1722166497:0;make
+: 1722166502:0;make re
+: 1722166982:0;make clean
+: 1722167045:0;dquit
+: 1722167143:0;cl
+: 1722316894:0;ls
+: 1722317445:0;ld
+: 1722317448:0;ls
+: 1722317466:0;cdd
+: 1722317471:0;gcl git@github.com:AhmedFatir/ELK-stack.git test
+: 1722317483:0;./test
+: 1722317486:0;code -r .
+: 1722317648:0;git checkout 7a6b417
+: 1722317668:0;make
+: 1722317916:0;ls
+: 1722317919:0;cdd
+: 1722317926:0;./ELK-stack
+: 1722317932:0;./inception/nginx/conf
+: 1722317933:0;ls
+: 1722317965:0;cp access.log ~/Desktop/test
+: 1722318013:0;ls
+: 1722318017:0;../../
+: 1722318018:0;..
+: 1722318025:0;./logstash/pipeline
+: 1722318025:0;ls
+: 1722318054:0;../../filebeat/conf
+: 1722318055:0;ls
+: 1722318137:0;mkae re
+: 1722318144:0;make re
+: 1722318232:0;cd
+: 1722318236:0;ls
+: 1722318239:0;cdd
+: 1722318242:0;./ELK-stack
+: 1722318244:0;ls
+: 1722318273:0;cp -r ~/Desktop/ELK-stack/inception .
+: 1722318303:0;./inception/nginx/conf
+: 1722318304:0;ls
+: 1722318306:0;pwd
+: 1722318328:0;ls
+: 1722318334:0;../../../
+: 1722318335:0;ls
+: 1722318339:0;rm access.log
+: 1722318340:0;ls
+: 1722318505:0;make re
+: 1722318689:0;ls
+: 1722318692:0;PUSH
+: 1722318715:0;ls
+: 1722318719:0;cdd
+: 1722318720:0;ls
+: 1722318751:0;pwd
+: 1722318761:0;cp /Users/afatir/Desktop/ELK-stack/s.sh .
+: 1722318769:0;./test
+: 1722318771:0;cp /Users/afatir/Desktop/ELK-stack/s.sh .
+: 1722318788:0;./setup
+: 1722318789:0;ls
+: 1722318916:0;make re
+: 1722319207:0;ls
+: 1722319210:0;PUSH
+: 1722319282:0;cdd
+: 1722319284:0;ls
+: 1722319310:0;rmf s.sh CPP-Modules ELK-stack test inception 
+: 1722319320:0;rmf elk_inc
+: 1722319322:0;ls
+: 1722319510:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1722319520:0;./ELK-stack
+: 1722319521:0;ls
+: 1722319552:0;code -r .
+: 1722319619:0;cd
+: 1722319620:0;ls
+: 1722319621:0;cd
+: 1722319622:0;cdd
+: 1722319623:0;ls
+: 1722319797:0;git checkout 7a6b417
+: 1722319802:0;./ELK-stack
+: 1722319803:0;git checkout 7a6b417
+: 1722319817:0;git checkout .
+: 1722319818:0;git checkout 7a6b417
+: 1722319834:0;rmf .git
+: 1722319835:0;ls
+: 1722319989:0;cdd
+: 1722319992:0;gcl git@github.com:AhmedFatir/inception.git
+: 1722320007:0;./ELK-stack
+: 1722320022:0;cp -r ../inception/srcs .
+: 1722320026:0;./srcs
+: 1722320027:0;ls
+: 1722320030:0;..
+: 1722320038:0;mv srcs inception
+: 1722320041:0;./inception
+: 1722320053:0;cp -r ./requirements/mariadb
+: 1722320056:0;cp -r ./requirements/mariadb .
+: 1722320060:0;cp -r ./requirements/nginx .
+: 1722320065:0;cp -r ./requirements/wordpress .
+: 1722320075:0;l
+: 1722320082:0;rmf requirements
+: 1722320083:0;ls
+: 1722320084:0;l
+: 1722320207:0;touch nginx/conf/access.log
+: 1722320307:0;cp /goinfre/afatir/s.sh .
+: 1722320316:0;rm s.sh
+: 1722320318:0;..
+: 1722320321:0;cp /goinfre/afatir/s.sh .
+: 1722320402:0;make re
+: 1722320499:0;cdd
+: 1722320501:0;./inception
+: 1722320503:0;ls
+: 1722320507:0;./srcs
+: 1722320509:0;ls
+: 1722320527:0;..
+: 1722320528:0;ls
+: 1722320531:0;make
+: 1722320538:0;make re
+: 1722320559:0;make ng
+: 1722320671:0;cdd
+: 1722320672:0;./ELK-stack
+: 1722320675:0;make  re
+: 1722321423:0;lls
+: 1722321425:0;ls
+: 1722321493:0;l
+: 1722321499:0;chmod + s.sh
+: 1722321503:0;chmod +x s.sh
+: 1722321506:0;l
+: 1722321508:0;./s.sh
+: 1722321528:0;rm dashboard.json
+: 1722321529:0;ls
+: 1722321561:0;mv s.sh get_dashboard.sh
+: 1722321977:0;make re
+: 1722322016:0;cdd
+: 1722322023:0;gcl git@github.com:AhmedFatir/ELK-stack.git new
+: 1722322035:0;./new
+: 1722322036:0;ls
+: 1722322055:0;rmf Makefile docker-compose.yml elasticsearch filebeat kibana logstash s.sh setup
+: 1722322056:0;l
+: 1722322061:0;rmf .env
+: 1722322062:0;ls
+: 1722322064:0;l
+: 1722322135:0;cp -r ../ELK-stack/* .
+: 1722322136:0;ls
+: 1722322137:0;l
+: 1722322144:0;./inception
+: 1722322145:0;l
+: 1722322147:0;..
+: 1722322150:0;l
+: 1722322160:0;cp ../ELK-stack/.env .
+: 1722322162:0;ls
+: 1722322162:0;l
+: 1722322170:0;make re
+: 1722322286:0;tree -a
+: 1722322657:0;ls
+: 1722322672:0;l
+: 1722322681:0;PUSH
+: 1722322733:0;cdd
+: 1722322735:0;ls
+: 1722322743:0;rmf ELK-stack new
+: 1722322747:0;rmf inception
+: 1722322749:0;ls
+: 1722322756:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1722322768:0;./ELK-stack
+: 1722322769:0;ls
+: 1722322774:0;l
+: 1722322781:0;make re
+: 1722322876:0;ls
+: 1722323278:0;make re
+: 1722323471:0;ls
+: 1722325613:0;cl
+: 1722326591:0;ps
+: 1722326595:0;ldocker ps
+: 1722326599:0;docker ps
+: 1722327735:0;ls
+: 1722327846:0;cl
+: 1722331563:0;cp ~/goinfre/export.ndjson .
+: 1722331572:0;cp ~/goinfre/export.ndjson ./setup
+: 1722331697:0;make re
+: 1722333379:0;curl -u elastic:changeme -k https://kibana:5601/api/status
+: 1722333389:0;curl -u elastic:changeme -k https://localhost:5601/api/status
+: 1722333471:0;curl -u elastic:changeme -k https://localhost:5601/api/status | tee /dev/stderr | grep -q '"state":"green"'
+: 1722333475:0;ls
+: 1722333490:0;make re
+: 1722333684:0;curl -u elastic:changeme -k https://localhost:5601/api/status | tee /dev/stderr | grep -q '"state":"green"'
+: 1722333700:0;curl -u elastic:changeme -k https://localhost:5601/api/status
+: 1722333706:0;curl -u elastic:changeme -k https://kibana:5601/api/status
+: 1722333728:0;curl -u elastic:changeme -k https://elasticsearsh:9200/api/status
+: 1722333742:0;curl -u elastic:changeme -k https://localhost:9200/api/status
+: 1722333907:0;curl -s -X GET --cacert config/certs/ca/ca.crt -u 'elastic:${ELASTIC_PASSWORD}' https://kibana:5601/api/status
+: 1722333933:0;curl -s -X GET --cacert config/certs/ca/ca.crt -u 'elastic:chnageme' https://kibana:5601/api/status
+: 1722333941:0;curl -s -X GET --cacert config/certs/ca/ca.crt -u 'elastic:changeme' https://kibana:5601/api/status
+: 1722333954:0;curl -s -X GET --cacert config/certs/ca/ca.crt -u 'elastic:changeme' https://localhost:5601/api/status
+: 1722333965:0;curl -s -X GET -u 'elastic:changeme' https://localhost:5601/api/status
+: 1722334007:0;make re
+: 1722336683:0;make prune
+: 1722336763:0;cp ../elk_omz/kibana/dashboards/dashboard1.json ./setup
+: 1722336962:0;make re
+: 1722338456:0;cp ./setup/dashboard.ndjson ./elasticsearch/conf
+: 1722338567:0;make re
+: 1722339084:0;mak ere
+: 1722339087:0;make re
+: 1722339203:0;amke re
+: 1722339206:0;make re
+: 1722342364:0;curl --unix-socket /var/run/docker.sock -X POST -H "Content-Type: application/json" -d '{\
+  "AttachStdin": false,\
+  "AttachStdout": true,\
+  "AttachStderr": true,\
+  "Tty": false,\
+  "Cmd": ["/bin/sh", "-c", "/usr/share/elasticsearch/config/import_dashboard.sh"]\
+}' http://localhost/containers/elasticsearch/exec
+: 1722342395:0;/var/run
+: 1722342395:0;ls
+: 1722342451:0;cd -
+: 1722342457:0;touch s.sh
+: 1722342462:0;ls
+: 1722342469:0;chmod +x s.sh
+: 1722342472:0;./s.sh
+: 1722342569:0;make clean
+: 1722342592:0;ls
+: 1722342654:0;mv s.sh trigger.sh
+: 1722342656:0;ls
+: 1722342659:0;PUSH
+: 1722342679:0;dquit
+: 1722342751:0;cl
+: 1722403969:0;make
+: 1722404072:0;dquit
+: 1722404086:0;cl
+: 1722404506:0;cd
+: 1722404509:0;l
+: 1722404543:0;zshup
+: 1722404567:0;dopen
+: 1722404574:0;dquit
+: 1722404588:0;dopen
+: 1722404602:0;ls
+: 1722404617:0;make
+: 1722404839:0;./trigger.sh
+: 1722405287:0;make re
+: 1722405352:0;./trigger.sh
+: 1722405517:0;cl
+: 1722405823:0;make re
+: 1722405889:0;./trigger.sh
+: 1722405917:0;dquit
+: 1722405925:0;make clean
+: 1722405969:0;dquit
+: 1722406436:0;cl
+: 1722406445:0;dopen
+: 1722406454:0;cl
+: 1722406478:0;cd
+: 1722406484:0;./goinfre
+: 1722406485:0;ls
+: 1722406488:0;cd DockerData
+: 1722406488:0;ls
+: 1722408153:0;cl
+: 1722408155:0;cd -
+: 1722408157:0;cdd
+: 1722408159:0;./ELK-stack
+: 1722408160:0;ls
+: 1722408165:0;git status
+: 1722408171:0;make
+: 1722408481:0;./trigger.sh
+: 1722408983:0;cp /goinfre/afatir/export.ndjson ./elasticsearch/conf/
+: 1722409037:0;./trigger.sh
+: 1722409130:0;make re
+: 1722409363:0;./trigger.sh
+: 1722409668:0;./trigger.sh | jq .
+: 1722409715:0;man jq
+: 1722409728:0;echo '{"fruit":{"name":"apple","color":"green","price":1.20}}' | jq '.'
+: 1722409752:0;brew install jq
+: 1722409950:0;man jq
+: 1722409959:0;./trigger.sh| jq .
+: 1722409971:0;ls
+: 1722409976:0;./trigger.sh > l
+: 1722409984:0;cat l | jq
+: 1722409988:0;cat l | jq .
+: 1722409991:0;ls
+: 1722409996:0;cat l
+: 1722409998:0;rm l
+: 1722410012:0;curl --unix-socket /var/run/docker.sock -X POST -H "Content-Type: application/json" -d '{\
+  "AttachStdin": false,\
+  "AttachStdout": true,\
+  "AttachStderr": true,\
+  "Tty": false,\
+  "Cmd": ["/bin/sh", "-c", "/usr/share/elasticsearch/config/import_dashboard.sh"]\
+}' http://localhost/containers/elasticsearch/exec
+: 1722410022:0;curl -s -X GET -u 'elastic:changeme' https://localhost:5601/api/status
+: 1722410042:0;curl -u elastic:changeme -k https://localhost:9200/_cat/allocation\?v
+: 1722410076:0;curl -u elastic:changeme -k https://localhost:9200/_cluster/health\?pretty
+: 1722410080:0;curl -u elastic:changeme -k https://localhost:9200/_cluster/health
+: 1722410085:0;curl -u elastic:changeme -k https://localhost:9200/_cluster/health | jq .
+: 1722410113:0;./trigger.sh
+: 1722410182:0;make re
+: 1722410303:0;./trigger.sh
+: 1722410348:0;make re
+: 1722410421:0;amke re 
+: 1722410424:0;make re
+: 1722410509:0;./trigger.sh
+: 1722410539:0;ls
+: 1722410540:0;cl
+: 1722413838:0;./trigger.sh
+: 1722413947:0;cl
+: 1722414139:0;make re
+: 1722414646:0;./trigger.sh &
+: 1722414679:0;ps
+: 1722414689:0;kill 14394
+: 1722414705:0;ps
+: 1722414714:0;kill 14397
+: 1722414718:0;ps
+: 1722414725:0;make clean
+: 1722414753:0;ls
+: 1722414761:0;kill 14303
+: 1722414770:0;kill 14306
+: 1722414774:0;ps
+: 1722414780:0;ls
+: 1722414782:0;cl
+: 1722414918:0;make re
+: 1722417148:0;./trigger.sh
+: 1722417170:0;curl --unix-socket /var/run/docker.sock -s http://localhost/containers/json
+: 1722417239:0;curl --unix-socket /var/run/docker.sock
+: 1722417252:0;curl --unix-socket /var/run/docker.sock -s http://localhost/containers/json
+: 1722417259:0;docker ps
+: 1722417298:0;curl --unix-socket /var/run/docker.sock -s http://localhost/containers/1b2146c282a6
+: 1722417316:0;ls
+: 1722417319:0;./trigger.sh
+: 1722417335:0;docker ps
+: 1722417411:0;./trigger.sh
+: 1722417631:0;make re
+: 1722417683:0;cp trigger.sh ./elasticsearch/conf
+: 1722417706:0;make re
+: 1722418190:0;ccurl --unix-socket /var/run/docker.sock -s http://localhost/containers/json
+: 1722418193:0;curl --unix-socket /var/run/docker.sock -s http://localhost/containers/json
+: 1722418204:0;/var/run
+: 1722418205:0;ls
+: 1722418224:0;ls | grep dock
+: 1722418228:0;ls
+: 1722418277:0;lsof -U | grep docker
+: 1722418305:0;curl --unix-socket /Users/afatir/.docker/run/docker.sock -s http://localhost/containers/json
+: 1722418316:0;curl --unix-socket /Users/afatir/.docker/run/docker.sock -s http://localhost/containers/json | jq .
+: 1722418341:0;lsof -U | grep docker.sock
+: 1722418452:0;make re
+: 1722418454:0;cd -
+: 1722418461:0;make re
+: 1722418476:0;cd 
+: 1722418480:0;./.docker
+: 1722418481:0;ls
+: 1722418485:0;cd run
+: 1722418486:0;ls
+: 1722418487:0;l
+: 1722418491:0;..
+: 1722418491:0;l
+: 1722418698:0;make re
+: 1722419093:0;ls
+: 1722419488:0;make re
+: 1722419605:0;ls
+: 1722419894:0;make re
+: 1722420998:0;make prune up
+: 1722421427:0;make re
+: 1722423220:0;PUSH
+: 1722423377:0;make clean
+: 1722423398:0;dquit
+: 1722423411:0;cl
+: 1722423414:0;dquit
+: 1722574024:0;cl
+: 1722574026:0;ls
+: 1722576079:0;cl
+: 1722591118:0;git status
+: 1722591955:0;ls
+: 1722591958:0;..
+: 1722591959:0;ld
+: 1722591962:0;ls
+: 1722591985:0;cp -r ELK-stack elkorg
+: 1722592001:0;cd elkorg
+: 1722592002:0;ls
+: 1722592007:0;..
+: 1722592017:0;./elkorg
+: 1722592020:0;rmf .git
+: 1722592023:0;../ELK-stack
+: 1722592421:0;git pull origin master
+: 1722592438:0;git rebase -i HEAD~10
+: 1722592492:0;/tmp
+: 1722592495:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1722592503:0;./ELK-stack
+: 1722592504:0;ls
+: 1722592527:0;git rebase -i HEAD~10
+: 1722592568:0;which code
+: 1722592632:0;git rebase -i HEAD~10
+: 1722592643:0;git config --global core.editor "code --wait"\
+
+: 1722592645:0;git rebase -i HEAD~10
+: 1722592939:0;/tmp/ELK-stack
+: 1722592941:0;ls
+: 1722592950:0;git rebase --continue
+: 1722592971:0;git push origin master --force
+: 1722593092:0;git log
+: 1722593166:0;git checkout master
+: 1722593190:0;git status
+: 1722593230:0;git checkout master
+: 1722593299:0;code .
+: 1722593315:0;ls
+: 1722593336:0;..
+: 1722593336:0;ls
+: 1722593342:0;rmf ELK-stack
+: 1722593345:0;gcl git@github.com:AhmedFatir/ELK-stack.git
+: 1722593354:0;./ELK-stack
+: 1722593358:0;code -r .
+: 1722593365:0;git checkout master
+: 1722593378:0;git rebase -i HEAD~13
+: 1722593575:0;git rebase --continue
+: 1722593749:0;cdd
+: 1722593750:0;ls
+: 1722593755:0;rmf ELK-stack
+: 1722593760:0;gcl git@github.com:AhmedFatir/ELK-Stack.git
+: 1722593778:0;cp -r ./elkorg/* ./ELK-Stack
+: 1722593780:0;ls
+: 1722593783:0;./ELK-Stack
+: 1722593784:0;ls
+: 1722593786:0;l
+: 1722593791:0;../elkorg
+: 1722593792:0;ls
+: 1722593793:0;l
+: 1722593802:0;cp .env ../ELK-Stack
+: 1722593807:0;../ELK-Stack
+: 1722593808:0;ls
+: 1722593810:0;l
+: 1722593814:0;PUSH
+: 1722594023:0;cdd
+: 1722594042:0;rmf ELK-Stack elkorg elk_offic elk_omz 
+: 1722594045:0;ls
+: 1722594048:0;gcl git@github.com:AhmedFatir/ELK-Stack.git
+: 1722594053:0;dopen
+: 1722594061:0;cl
+: 1722594064:0;./ELK-Stack
+: 1722594069:0;code .
+: 1722596115:0;make
+: 1722596258:0;make re
+: 1722596527:0;lls
+: 1722596529:0;ls
+: 1722597217:0;PUSH
+: 1722597276:0;cl
+: 1722597280:0;dquit
+: 1722597290:0;make clean
+: 1722597444:0;git pull
+: 1722597525:0;ls
+: 1722597527:0;dquit
+: 1722662295:0;cl
+: 1722669117:0;ls
+: 1722669133:0;git status
+: 1722669136:0;make
+: 1722669188:0;ls
+: 1722669989:0;cdd
+: 1722669990:0;ls
+: 1722670006:0;mkdir pro-gra
+: 1722670009:0;./pro-gra
+: 1722670010:0;ls
+: 1722670022:0;cp -r ../ELK-Stack/inception .
+: 1722670024:0;ls
+: 1722670031:0;./inception
+: 1722670038:0;..
+: 1722670039:0;ls
+: 1722670047:0;touch Makefile
+: 1722670070:0;cp ../ELK-Stack/docker-compose.yml .
+: 1722670077:0;cp ../ELK-Stack/.env .
+: 1722670078:0;ls
+: 1722670079:0;l
+: 1722670086:0;code -r .
+: 1722670100:0;ls
+: 1722670102:0;make clean
+: 1722670118:0;ls
+: 1722670208:0;mkdir grafana prometheus
+: 1722670224:0;./prometheus
+: 1722670237:0;mkdir config
+: 1722670240:0;./config
+: 1722670241:0;ls
+: 1722670252:0;touch prometheus.yml
+: 1722670291:0;pwd
+: 1722670346:0;make
+: 1722670348:0;ls
+: 1722670349:0;..
+: 1722670350:0;ls
+: 1722670351:0;..
+: 1722670351:0;ls
+: 1722670354:0;make
+: 1722670377:0;ls
+: 1722670742:0;make re
+: 1722671235:0;make
+: 1722672395:0;make re
+: 1722672626:0;make clean
+: 1722672684:0;make
+: 1722673578:0;make clean
+: 1722673596:0;cdd
+: 1722673598:0;./ELK-Stack
+: 1722673599:0;ls
+: 1722673642:0;make
+: 1722673669:0;make re
+: 1722673949:0;ls
+: 1722673950:0;cl
+: 1722673984:0;cdd
+: 1722673987:0;./pro-gra
+: 1722673988:0;ls
+: 1722674142:0;make re
+: 1722675748:0;cdd
+: 1722675749:0;ls
+: 1722675754:0;gcl git@github.com:AhmedFatir/prom-garfana.git
+: 1722675779:0;cp -r ./pro-gra/* ./prom-garfana
+: 1722675784:0;./prom-garfana
+: 1722675785:0;ls
+: 1722675786:0;l
+: 1722675794:0;touch .env
+: 1722675795:0;l
+: 1722675800:0;ls
+: 1722675804:0;PUSH
+: 1722675818:0;rmf ../pro-gra
+: 1722675821:0;code -r .
+: 1722675831:0;make clean
+: 1722675855:0;ls
+: 1722679469:0;make
+: 1722679559:0;make down up
+: 1722682322:0;make clean
+: 1722682357:0;git status
+: 1722749510:0;cl
+: 1722751293:0;dopen
+: 1722751324:0;make
+: 1722755928:0;cl
+: 1722757365:0;make down up
+: 1722768701:0;make clean
+: 1722922399:0;cl
+: 1722922785:0;ls
+: 1722922787:0;pwd
+: 1722922791:0;docker ps
+: 1722922802:0;lmake
+: 1722922804:0;make
+: 1722927277:0;bash
+: 1722928313:0;tree -a
+: 1722929332:0;./prometheus/config
+: 1722929336:0;touch web-config.yml
+: 1722929546:0;make
+: 1722929550:0;..
+: 1722929551:0;ls
+: 1722929552:0;..
+: 1722929553:0;ls
+: 1722929556:0;make
+: 1722929664:0;make re
+: 1722930478:0;touch ./prometheus/config/prometheus.key
+: 1722930484:0;touch ./prometheus/config/prometheus.crt
+: 1722930487:0;make re
+: 1722931783:0;make down up
+: 1722931904:0;make re
+: 1722932000:0;make down up
+: 1722932145:0;re
+: 1722932241:0;make du
+: 1722932484:0;cl
+: 1722932496:0;make re
+: 1722932499:0;make du
+: 1722933196:0;make re
+: 1722933296:0;make du
+: 1722933480:0;make re
+: 1722934991:0;make du
+: 1722935595:0;make re
+: 1722935629:0;curl -k https://localhost/nginx_status
+: 1722935904:0;make re
+: 1722936154:0;curl http://mysqld_exporter:9104/metrics
+: 1722936211:0;make re
+: 1722936274:0;ls
+: 1722936332:0;curl http://mysqld_exporter:9104/metrics
+: 1722936342:0;curl http://localhost:9104/metrics
+: 1722936864:0;make re
+: 1722936944:0;..
+: 1722936947:0;ls
+: 1722936986:0;./services
+: 1722936987:0;ls
+: 1722936993:0;./prometheus-grafana
+: 1722936994:0;ls
+: 1722936997:0;./exporters
+: 1722936998:0;ls
+: 1722937002:0;./postgres-exporter
+: 1722937003:0;;s
+: 1722937004:0;ls
+: 1722937011:0;..
+: 1722937012:0;ls
+: 1722937013:0;..
+: 1722937014:0;ls
+: 1722937017:0;..
+: 1722937018:0;ls
+: 1722937026:0;./prometheus-grafana
+: 1722937148:0;../..
+: 1722937148:0;ls
+: 1722937317:0;make re
+: 1722939808:0;ls
+: 1722939809:0;cl
+: 1722939832:0;make re
+: 1722941241:0;ls
+: 1722941256:0;touch .my.cnf
+: 1722941305:0;make du
+: 1722942215:0;make re
+: 1722942697:0;mkdir exporters
+: 1722942702:0;cd exporters
+: 1722942729:0;touch Dockerfile
+: 1722942919:0;make re
+: 1722942921:0;..
+: 1722942922:0;ls
+: 1722942924:0;make re
+: 1722943500:0;amke
+: 1722943501:0;make
+: 1722943590:0;make re
+: 1722943982:0;mak ere
+: 1722943984:0;make re
+: 1722944166:0;ls
+: 1722944168:0;make re
+: 1722944234:0;make
+: 1722944691:0;make re
+: 1722945824:0;cd exporters
+: 1722945927:0;make re
+: 1722945931:0;cd -
+: 1722945933:0;ls
+: 1722945935:0;make re
+: 1722947674:0;amke re
+: 1722947678:0;make re
+: 1722947915:0;make du
+: 1722947988:0;cl
+: 1722947993:0;ls
+: 1722947996:0;PUSH
+: 1722948019:0;ls
+: 1722948110:0;make clean
+: 1722948149:0;cl
+: 1723008873:0;dopen
+: 1723010606:0;ls
+: 1723010607:0;cl
+: 1723010609:0;make
+: 1723014430:0;ls
+: 1723014466:0;cp .git ../
+: 1723014472:0;cp -r .git ../
+: 1723014476:0;rmf .git
+: 1723014481:0;tree -a
+: 1723014788:0;cp -r ../.git .
+: 1723014934:0;..
+: 1723014935:0;ls
+: 1723014937:0;,,
+: 1723014938:0;..
+: 1723014939:0;l
+: 1723014940:0;..
+: 1723014941:0;l
+: 1723014944:0;rmf .git
+: 1723017026:0;make re
+: 1723017126:0;make du
+: 1723017174:0;ls
+: 1723017178:0;docker ps
+: 1723017678:0;make du
+: 1723019588:0;make re
+: 1723024154:0;l
+: 1723024163:0;chmod +x start_alertmanager.sh
+: 1723024164:0;l
+: 1723024187:0;make re
+: 1723026104:0;mak ere
+: 1723026112:0;make re
+: 1723032264:0;ls
+: 1723032273:0;touch .gitignire
+: 1723032293:0;mv .gitignire .gitignore
+: 1723032369:0;PUSH
+: 1723032540:0;make clean
+: 1723032579:0;pwd
+: 1723032770:0;make
+: 1723032937:0;PUSH 
+: 1723032967:0;make clean
+: 1723033024:0;cl
+: 1723181684:0;ls
+: 1723181687:0;cl
+: 1723181689:0;pwd
+: 1723181694:0;cdd
+: 1723181695:0;ls
+: 1723181702:0;dopen
+: 1723181767:0;make
+: 1723182917:0;make re
+: 1723183210:0;make
+: 1723183217:0;make re
+: 1723183589:0;amke re
+: 1723183611:0;make re
+: 1723185040:0;ls
+: 1723185044:0;PUSH
+: 1723185097:0;ls
+: 1723187984:0;make
+: 1723188093:0;make re
+: 1723188535:0;make cl
+: 1723188538:0;make clean
+: 1723188556:0;cl
+: 1723188562:0;PUSH
+: 1723188582:0;make
+: 1723188635:0;ls
+: 1723188637:0;cl
+: 1723190260:0;tree -a
+: 1723190981:0;make re
+: 1723191479:0;ls
+: 1723191673:0;make re
+: 1723193834:0;docker logs grafana | grep "datasource"
+: 1723193863:0;docker logs grafana | grep "provisioning"
+: 1723193981:0;docker exec -it grafana /bin/bas
+: 1723193988:0;docker exec -it grafana /bin/bash
+: 1723194025:0;make re
+: 1723194057:0;cd
+: 1723194058:0;l
+: 1723194067:0;rest
+: 1723194103:0;zshup
+: 1723194122:0;log
+: 1723194128:0;dlog
+: 1723194141:0;dres
+: 1723194162:0;zshup
+: 1723194171:0;dlog mariadb
+: 1723194193:0;zshup
+: 1723194198:0;dlog nginx
+: 1723194205:0;dlog wordpress
+: 1723194214:0;dlog garfana
+: 1723194239:0;docker-compose logs grafana
+: 1723194255:0;zshu
+: 1723194260:0;zshup
+: 1723194269:0;dlog grafana
+: 1723194278:0;zshup
+: 1723194358:0;docker exec -it grafana /bin/bash
+: 1723194485:0;docker logs grafana | grep "provisioning"\
+
+: 1723194596:0;docker exec -it grafana /bin/bash
+: 1723194722:0;ls
+: 1723194725:0;cl
+: 1723194741:0;dres grafana
+: 1723194757:0;docker exec -it grafana /bin/bash
+: 1723195043:0;make re
+: 1723195198:0;docker logs grafana | grep "provisioning"
+: 1723195211:0;docker logs grafana | grep "error"
+: 1723195248:0;docker exec -it grafana /bin/bash
+: 1723195449:0;make re
+: 1723195618:0;docker logs grafana | grep "provisioning"
+: 1723195624:0;docker logs grafana | grep "error"
+: 1723195690:0;rest grafana
+: 1723195838:0;make re
+: 1723197479:0;chmod +x export.sh
+: 1723197483:0;./export.sh
+: 1723197540:0;rm export.sh
+: 1723197543:0;cl
+: 1723197566:0;amke re
+: 1723197568:0;make re
+: 1723197718:0;docker exec -it grafana /bin/bash
+: 1723197848:0;make re
+: 1723197990:0;docker exec -it grafana /bin/bash
+: 1723198070:0;..
+: 1723198072:0;ls
+: 1723198143:0;make re
+: 1723200530:0;ake re
+: 1723200533:0;make re
+: 1723200758:0;echo "[client]\nuser=\${USER}\npassword=\${PASS}" > .my.cnf.temp
+: 1723200815:0;sed -i "s/\${USER}/root/g" /etc/.my.cnf.temp && sed -i "s/\${PASS}/0000/g" /etc/.my.cnf.temp
+: 1723200826:0;sed -i "s/\${USER}/root/g" .my.cnf.temp && sed -i "s/\${PASS}/0000/g" .my.cnf.temp
+: 1723200847:0;sed -i "s/\${USER}/root/g" ./.my.cnf.temp && sed -i "s/\${PASS}/0000/g" ./.my.cnf.temp
+: 1723200871:0;sed -i "s/\${USER}/root/g" /Users/afatir/Desktop/prom-garfana/.my.cnf.temp && sed -i "s/\${PASS}/0000/g" /Users/afatir/Desktop/prom-garfana/.my.cnf.temp
+: 1723200904:0;sed -i "s/\${USER}/$USER/g" /Users/afatir/Desktop/prom-garfana/.my.cnf.temp && sed -i "s/\${PASS}/$PASS/g" /Users/afatir/Desktop/prom-garfana/.my.cnf.temp
+: 1723200952:0;sed -i "s/\${USER}/root/g" /Users/afatir/Desktop/prom-garfana/.my.cnf.temp
+: 1723201043:0;cat .my.cnf.temp
+: 1723201058:0;pwd
+: 1723201094:0;sed -i "s/\${USER}/root/g" /Users/afatir/Desktop/prom-garfana/.my.cnf.temp
+: 1723201108:0;cat .my.cnf.temp
+: 1723201109:0;sed -i "s/\${USER}/root/g" /Users/afatir/Desktop/prom-garfana/.my.cnf.temp
+: 1723201159:0;sed -i '' "s#\${USER}#root#g" /Users/afatir/Desktop/prom-garfana/.my.cnf.temp
+: 1723201296:0;dres mysqld-exporter
+: 1723201302:0;dres mysqld_exporter
+: 1723201392:0;echo "[client]\nuser=root\npassword=0000" > .my.cnf.temp
+: 1723201405:0;dres mysqld_exporter
+: 1723201538:0;make re
+: 1723201586:0;sed -i '' "s#USER#root#g" .my.cnf.temp
+: 1723201614:0;sed -i '' "s@USER@ro00000000ot@g" .my.cnf.temp
+: 1723201634:0;make re
+: 1723201827:0;cl
+: 1723201904:0;make clean
+: 1723201936:0;ls
+: 1723201940:0;PUSH
+: 1723202074:0;cl
+: 1723202077:0;dquit
+: 1723267389:0;cl
+: 1723267712:0;make
+: 1723267719:0;dopen
+: 1723267781:0;make
+: 1723268184:0;cdd
+: 1723268187:0;gcl git@github.com:AhmedFatir/ELK-Prom-Graf.git
+: 1723268194:0;ls
+: 1723268206:0;./ELK-Prom-Graf
+: 1723268208:0;ls
+: 1723268229:0;cp -r ../prom-garfana .
+: 1723268233:0;ls
+: 1723268235:0;./prom-garfana
+: 1723268236:0;ls
+: 1723268241:0;rmf .git
+: 1723268244:0;ls
+: 1723268245:0;l
+: 1723268271:0;ls
+: 1723268283:0;cp -r inception ../
+: 1723268285:0;ls
+: 1723268286:0;..
+: 1723268287:0;ls
+: 1723268294:0;rmf ./prom-garfana/inception
+: 1723268295:0;ls
+: 1723268311:0;cp -r ../ELK-Stack .
+: 1723268316:0;./ELK-Stack
+: 1723268320:0;rmf .git
+: 1723268322:0;ls
+: 1723268322:0;l
+: 1723268338:0;mv inception inception_e
+: 1723268340:0;ls
+: 1723268355:0;cp -r inception_e ../
+: 1723268359:0;rmf inception_e
+: 1723268361:0;..
+: 1723268361:0;ls
+: 1723268369:0;code -r .
+: 1723268398:0;ls
+: 1723268406:0;diff inception inception_e
+: 1723268411:0;diff inception inception_e > l
+: 1723268505:0;rmf inception_e
+: 1723268507:0;ls
+: 1723268510:0;rm l
+: 1723268519:0;touch Makefile
+: 1723268531:0;rm Makefile
+: 1723268541:0;cp ../prom-garfana/Makefile .
+: 1723268580:0;./ELK-Stack
+: 1723268582:0;pwd
+: 1723268601:0;../prom-garfana
+: 1723268603:0;pwd
+: 1723268827:0;ls
+: 1723268829:0;make
+: 1723268831:0;ls
+: 1723268834:0;..
+: 1723268834:0;ls
+: 1723268836:0;make
+: 1723268848:0;make re
+: 1723269096:0;ls
+: 1723269100:0;make re
+: 1723270402:0;PUSH
+: 1723275711:0;tree -a
+: 1723276078:0;make re
+: 1723276527:0;make
+: 1723276558:0;make re
+: 1723282781:0;ls
+: 1723283025:0;make re
+: 1723283199:0;amke re
+: 1723283200:0;make re
+: 1723283308:0;amke re
+: 1723283310:0;make re
+: 1723283428:0;PUSH
+: 1723284179:0;make re
+: 1723286215:0;make clean
+: 1723286245:0;ls
+: 1723286247:0;cdd
+: 1723286249:0;ls
+: 1723286260:0;rmf ELK-Prom-Graf ELK-Stack prom-garfana
+: 1723286263:0;ls
+: 1723286276:0;mv ft_transcendence trans
+: 1723286278:0;ls
+: 1723286296:0;git clone https://github.com/AhmedFatir/ELK-PromGraf-Incep.git
+: 1723286300:0;./ELK-PromGraf-Incep
+: 1723286300:0;ls
+: 1723286305:0;code -r .
+: 1723286332:0;ls
+: 1723286409:0;make
+: 1723286784:0;make clean
+: 1723286805:0;ls
+: 1723286806:0;cl
+: 1723286827:0;ls
+: 1723287686:0;cl
+: 1723361528:0;cdd
+: 1723361530:0;ls
+: 1723361533:0;gcl git@github.com:AhmedFatir/CPP-Modules.git
+: 1723361541:0;./CPP-Modules
+: 1723361548:0;./Module\ 08/ex02
+: 1723361549:0;ls
+: 1723362689:0;..
+: 1723362690:0;ls
+: 1723365736:0;curl -s GET http://data.pr4e.org/page1.html HTTP/1.0
+: 1723365745:0;curl -s GET http://data.pr4e.org/page1.html
+: 1723365789:0;man curl
+: 1723365944:0;curl -s0 GET http://data.pr4e.org/page1.html
+: 1723366041:0;curl -s GET http://data.pr4e.org/page1.html > l
+: 1723366051:0;l
+: 1723366055:0;cat l
+: 1723366057:0;rm l
+: 1723366180:0;curl -s -X GET http://data.pr4e.org/page1.html
+: 1723366221:0;curl  GET http://data.pr4e.org/page1.html
+: 1723366233:0;curl http://data.pr4e.org/page1.html
+: 1723366240:0;curl -i http://data.pr4e.org/page1.html
+: 1723366251:0;curl -I http://data.pr4e.org/page1.html
+: 1723366277:0;curl -I -http2 http://data.pr4e.org/page1.html
+: 1723366283:0;curl -I --http2 http://data.pr4e.org/page1.html
+: 1723366293:0;curl -I --http3 http://data.pr4e.org/page1.html
+: 1723366297:0;curl -I --http http://data.pr4e.org/page1.html
+: 1723366302:0;curl -I --http1 http://data.pr4e.org/page1.html
+: 1723366307:0;curl -I --http0 http://data.pr4e.org/page1.html
+: 1723366313:0;curl -I -0 http://data.pr4e.org/page1.html
+: 1723366554:0;[200~curl -A "Mozilla FireFox(72.0)" https://example.com\~
+: 1723366565:0;curl -A "Mozilla FireFox(72.0)" https://example.com
+: 1723441298:0;cl
+: 1723445253:0;telnat
+: 1723445258:0;telnet
+: 1723445314:0;curl https://www.example.com
+: 1723445320:0;curl -I https://www.example.com
+: 1723445330:0;curl -I0 https://www.example.com
+: 1723445604:0;curl -I0 https://www.google.com
+: 1723445627:0;curl -I0 https://www.1337.ma
+: 1723445661:0;curl -I0 https://www.helloworld.com
+: 1723445680:0;curl -I0 https://www.promotion.com
+: 1723445736:0;curl -I0 https://www.1337.ma/en/
+: 1723445758:0;curl -I https://www.1337.ma/en/
+: 1723445766:0;ping
+: 1723445785:0;ping https://337.ma
+: 1723445791:0;ping https://1337.ma
+: 1723445809:0;curl https://1337.ma
+: 1723445816:0;curl -I https://1337.ma
+: 1723445852:0;curl -I https://www.42network.org/
+: 1723445916:0;curl -I https://nginx.org/
+: 1723445946:0;curl -I https://localhost:443
+: 1723447267:0;cd
+: 1723447274:0;touch p.py
+: 1723447281:0;p
+: 1723447284:0;py
+: 1723447291:0;py p.py
+: 1723447293:0;l
+: 1723447307:0;python
+: 1723447457:0;zshup
+: 1723447464:0;py p.py
+: 1723447512:0;mv p.py c.c
+: 1723447515:0;cc c.c
+: 1723447519:0;./a
+: 1723447521:0;./a.out
+: 1723447539:0;ls
+: 1723447575:0;./a
+: 1723447577:0;cc c.c
+: 1723447582:0;./a.out
+: 1723447596:0;mv c.c p.py
+: 1723447710:0;py p.py
+: 1723447750:0;cp p.py ./Desktop
+: 1723447754:0;rmf p.py
+: 1723447757:0;cdd
+: 1723447760:0;ls
+: 1723447862:0;py p.py
+: 1723448096:0;ls
+: 1723448139:0;touch Dockerfile
+: 1723448420:0;dopen
+: 1723448518:0;docker run .
+: 1723448523:0;docker --help
+: 1723448573:0;docker build .
+: 1723448776:0;ls
+: 1723448781:0;mdkir lab
+: 1723448789:0;mkdir lab
+: 1723448797:0;cp Dockerfile lab
+: 1723448802:0;rm Dockerfile
+: 1723448805:0;./lab
+: 1723448806:0;ls
+: 1723448816:0;touch Makefile
+: 1723448825:0;cp ../ELK-PromGraf-Incep/Makefile .
+: 1723448827:0;ls
+: 1723448830:0;cat Makefile
+: 1723448838:0;code -r .
+: 1723448975:0;make
+: 1723449270:0;make myapp
+: 1723449276:0;docker ps
+: 1723449396:0;make shell
+: 1723449543:0;make
+: 1723449557:0;make lb
+: 1723449562:0;make lab
+: 1723449826:0;ls
+: 1723449828:0;make
+: 1723450087:0;cl
+: 1723450109:0;make re
+: 1723450117:0;make clean
+: 1723450125:0;make
+: 1723450479:0;make lab
+: 1723452434:0;make re
+: 1723452869:0;make clean
+: 1723452946:0;docker ps
+: 1723452962:0;make prune
+: 1723453000:0;cl
+: 1723453081:0;ls
+: 1723453105:0;open ~/goinfre
+: 1723453167:0;ls
+: 1723453168:0;lcl
+: 1723453171:0;zshup
+: 1723453211:0;../ELK-PromGraf-Incep
+: 1723453212:0;l
+: 1723453391:0;make clean
+: 1723453397:0;make prune
+: 1723453429:0;make
+: 1723453568:0;make re
+: 1723453657:0;make clean
+: 1723453667:0;make fclean up
+: 1723453676:0;make
+: 1723453937:0;py p.py
+: 1723454128:0;py p.py > index.html
+: 1723454143:0;open .
+: 1723454180:0;py p.py > index.html
+: 1723454594:0;py p.py
+: 1723454608:0;curl https://data.pr4e.org/page1.html
+: 1723454678:0;py p.py > index.html
+: 1723454691:0;curl https://data.pr4e.org/page1.html
+: 1723454695:0;curl http://data.pr4e.org/page1.html
+: 1723454703:0;curl -i http://data.pr4e.org/page1.html
+: 1723454741:0;curl -i http://data.pr4e.org/page1.htm
+: 1723454796:0;py p.py > index.html
+: 1723454836:0;py p.py
+: 1723454860:0;py p.py > index.html
+: 1723455870:0;py p.py
+: 1723456086:0;mv p.py server.py
+: 1723456093:0;touch client.py
+: 1723456475:0;py server.py
+: 1723456480:0;py client.py
+: 1723456515:0;py server.py
+: 1723456534:0;py client.py
+: 1723456537:0;py server.py
+: 1723456593:0;py client.py
+: 1723456623:0;py server.py
+: 1723456675:0;py client.py
+: 1723456679:0;py server.py
+: 1723456713:0;py client.py
+: 1723456781:0;py server.py
+: 1723456782:0;py client.py
+: 1723456964:0;py server.py
+: 1723456965:0;py client.py
+: 1723460606:0;ls
+: 1723526334:0;cl
+: 1723526336:0;ls
+: 1723526367:0;cl
+: 1723526369:0;dopen
+: 1723527069:0;ls
+: 1723527071:0;make
+: 1723527145:0;ls
+: 1723527148:0;make lab
+: 1723527372:0;l
+: 1723527374:0;cd
+: 1723527375:0;l
+: 1723534965:0;ls
+: 1723534967:0;cdd
+: 1723534968:0;./lab
+: 1723534969:0;ls
+: 1723534971:0;make re
+: 1723535017:0;ls
+: 1723535030:0;make re
+: 1723535104:0;cd
+: 1723535105:0;l
+: 1723535130:0;cdd
+: 1723535131:0;ls
+: 1723535134:0;./lab
+: 1723535135:0;ls
+: 1723535218:0;make re
+: 1723535262:0;pwd
+: 1723535278:0;make re
+: 1723535308:0;pwd
+: 1723535310:0;cd
+: 1723535315:0;ls .zshrc
+: 1723535344:0;make re
+: 1723535388:0;ls
+: 1723535399:0;touch file.sh
+: 1723535544:0;amke re
+: 1723535545:0;make re
+: 1723535615:0;cdd
+: 1723535618:0;./lab
+: 1723535619:0;ls
+: 1723535657:0;make re
+: 1723535697:0;pwd
+: 1723535711:0;ls
+: 1723535735:0;make re
+: 1723535773:0;ls
+: 1723535827:0;make re
+: 1723535838:0;ls
+: 1723538224:0;amke re
+: 1723538227:0;make re
+: 1723542877:0;cdd
+: 1723542878:0;ls
+: 1723542883:0;rmf ELK-PromGraf-Incep
+: 1723542885:0;gcl git@github.com:AhmedFatir/ELK-PromGraf-Incep.git
+: 1723542900:0;./
+: 1723542902:0;./ELK-PromGraf-Incep
+: 1723542903:0;ls
+: 1723542906:0;code -r .
+: 1723542916:0;ls
+: 1723548152:0;make clean
+: 1723548172:0;cl
+: 1723699192:0;ls
+: 1723699193:0;cl
+: 1723701468:0;ls
+: 1723701490:0;cd
+: 1723701490:0;l
+: 1723701512:0;zshup
+: 1723701517:0;slab
+: 1723701545:0;dopen
+: 1723701576:0;touch docker-compose.yml
+: 1723701766:0;mkdir lab
+: 1723703837:0;ls
+: 1723703853:0;make
+: 1723703915:0;make lab
+: 1723703964:0;ls
+: 1723703972:0;cl
+: 1723704046:0;make re
+: 1723704191:0;make
+: 1723704231:0;make re
+: 1723704251:0;make lab
+: 1723704406:0;make
+: 1723704416:0;cdd
+: 1723704418:0;./lab
+: 1723704419:0;make
+: 1723704501:0;docker ps
+: 1723704508:0;docker image ls
+: 1723704525:0;docker rmi 929ea86259b5
+: 1723704527:0;docker image ls
+: 1723704531:0;docker image ls -a
+: 1723704540:0;docker ps -a
+: 1723704552:0;make lab
+: 1723704593:0;cl
+: 1723704596:0;make lab
+: 1723704647:0;make re
