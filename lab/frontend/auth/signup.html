@@ -1,16 +1,14 @@
 {% load static %}
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Sign Up Form</title>
-  <link rel='stylesheet' href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css'><link rel="stylesheet" href="{% static 'css/styles.css' %}">
+  <link rel='stylesheet' href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css'>
   <link rel="stylesheet" href="{% static 'css/styles.css' %}">
-
 </head>
 <body>
   <section>
-
       <span></span>
       <span></span>
       <span></span>
@@ -283,81 +281,84 @@
       <span></span>
       <span></span>
       <span></span>
-</section>
-
-<!-- partial:index.partial.html -->
-<div class="container">
-  <header>Sign Up Form</header>
-  {% if messages %}
-  <ul class="message-list">
-    {% for message in messages %}
-      <li class="message {{ message.tags }}">{{ message }}</li>
-    {% endfor %}
-  </ul>
-{% endif %}
-  <form action="#">
-    <div class="field name-field">
-      <div class="input-field">
-        <input type="name" placeholder="Enter your Name" class="name" required />
+  </section>
+  <div class="container">
+    <header>Sign Up Form</header>
+    {% if messages %}
+      <ul class="message-list">
+        {% for message in messages %}
+          <li class="message {{ message.tags }}">{{ message }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+    <form method="POST" action="{% url 'signup' %}">
+      {% csrf_token %}
+      <div class="field name-field {% if form.full_name.errors %}invalid{% endif %}">
+        <div class="input-field">
+          {{ form.full_name }}
+        </div>
+        {% if form.full_name.errors %}
+        <span class="error name-error">
+          <i class="bx bx-error-circle error-icon"></i>
+          <p class="error-text">{{ form.full_name.errors.0 }}</p>
+        </span>
+        {% endif %}
       </div>
-      <span class="error name-error">
-        <i class="bx bx-error-circle error-icon"></i>
-        <p class="error-text">Please enter a valid Name</p>
-      </span>
-    </div>
-    <div class="field username-field">
-      <div class="input-field">
-        <input type="name" placeholder="Enter your Username" class="username" required />
+      <div class="field username-field {% if form.username.errors %}invalid{% endif %}">
+        <div class="input-field">
+          {{ form.username }}
+        </div>
+        {% if form.username.errors %}
+        <span class="error username-error">
+          <i class="bx bx-error-circle error-icon"></i>
+          <p class="error-text">{{ form.username.errors.0 }}</p>
+        </span>
+        {% endif %}
       </div>
-      <span class="error name-error">
-        <i class="bx bx-error-circle error-icon"></i>
-        <p class="error-text">Please enter a valid Username</p>
-      </span>
-    </div>
-    <div class="field email-field">
-      <div class="input-field">
-        <input type="email" placeholder="Enter your email" class="email" required />
+      <div class="field email-field {% if form.email.errors %}invalid{% endif %}">
+        <div class="input-field">
+          {{ form.email }}
+        </div>
+        {% if form.email.errors %}
+        <span class="error email-error">
+          <i class="bx bx-error-circle error-icon"></i>
+          <p class="error-text">{{ form.email.errors.0 }}</p>
+        </span>
+        {% endif %}
       </div>
-      <span class="error email-error">
-        <i class="bx bx-error-circle error-icon"></i>
-        <p class="error-text">Please enter a valid email</p>
-      </span>
-    </div>
-    <div class="field create-password">
-      <div class="input-field">
-        <input type="password" placeholder="Password" class="password" required />
-        <i class="bx bx-hide show-hide"></i>
+      <div class="field create-password {% if form.password1.errors %}invalid{% endif %}">
+        <div class="input-field">
+          {{ form.password1 }}
+          <i class="bx bx-hide show-hide"></i>
+        </div>
+        {% if form.password1.errors %}
+        <span class="error password-error">
+          <i class="bx bx-error-circle error-icon"></i>
+          <p class="error-text">{{ form.password1.errors.0 }}</p>
+        </span>
+        {% endif %}
       </div>
-      <span class="error password-error">
-        <i class="bx bx-error-circle error-icon"></i>
-        <p class="error-text">
-          Please enter atleast 8 charatcer with number, symbol, small and
-          capital letter.
-        </p>
-      </span>
-    </div>
-    <div class="field confirm-password">
-      <div class="input-field">
-        <input type="password" placeholder="Confirm Password" class="cPassword" required />
-        <i class="bx bx-hide show-hide"></i>
+      <div class="field confirm-password {% if form.password2.errors %}invalid{% endif %}">
+        <div class="input-field">
+          {{ form.password2 }}
+          <i class="bx bx-hide show-hide"></i>
+        </div>
+        {% if form.password2.errors %}
+        <span class="error cPassword-error">
+          <i class="bx bx-error-circle error-icon"></i>
+          <p class="error-text">{{ form.password2.errors.0 }}</p>
+        </span>
+        {% endif %}
       </div>
-      <span class="error cPassword-error">
-        <i class="bx bx-error-circle error-icon"></i>
-        <p class="error-text">Password didn't match</p>
-      </span>
-    </div>
-    <div class="links">
-      <a href="#">Forgot Password</a>
-      <a href="/login/">Login</a>
-    </div>
-    <div class="input-field button">
-      <input type="submit" value="Signup Now" />
-    </div>
-  </form>
-</div>
-
-<!-- partial -->
-<script src="{% static 'js/signup.js' %}"></script>
-
+      <div class="links">
+        <a href="#">Forgot Password</a>
+        <a href="/login/">Login</a>
+      </div>
+      <div class="input-field button">
+        <input type="submit" value="Signup Now" />
+      </div>
+    </form>
+  </div>
+  <script src="{% static 'js/signup.js' %}"></script>
 </body>
 </html>

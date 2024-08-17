@@ -16,13 +16,13 @@ RUN rm install.sh && mkdir /root/lab
 
 COPY ./zshrc /root/.zshrc
 COPY ./zsh_history /root/.zsh_history
+COPY ./lab /root/lab
 
 # Install Django globally
 RUN pip3 install django
 RUN pip3 install django-allauth
 RUN pip3 install requests
 RUN pip3 install PyJWT
-RUN pip3 install crpytography
 
 # Keep the container running
 CMD ["tail", "-f", "/dev/null"]

@@ -259,3 +259,78 @@ form .links a:nth-child(2)
   color: #721c24; /* Dark red text */
   border: 1px solid #f5c6cb; /* Red border */
 }
+
+.message.success {
+  background-color: #d4edda;
+  color: #155724;
+  border-color: #c3e6cb;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* General container styling remains the same */
+.container {
+  max-width: 380px;
+  width: 100%;
+  padding: 25px 30px;
+  background-color: #111;
+  border-radius: 5px;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.container header {
+  font-size: 2rem;
+  color: #00BFFF;
+  margin-bottom: 20px;
+}
+
+.welcome-info {
+  margin: 20px 0;
+  text-align: left;
+  color: #FFFFFF; /* Make the text color white for better visibility */
+}
+
+.welcome-info h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #00BFFF; /* Matching the header color */
+}
+
+.welcome-info ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.welcome-info li {
+  font-size: 1rem;
+  margin: 5px 0;
+  color: #B0B0B0; /* Lighter shade for detail text */
+}
+
+.welcome-info li strong {
+  color: #FFFFFF; /* Make the labels white to stand out */
+}
+
+.input-field.button {
+  margin-top: 20px;
+}
+
+.logout-button {
+  display: block;
+  width: 100%;
+  padding: 10px 0;
+  background-color: #00BFFF;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #00A1D6;
+}

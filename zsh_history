@@ -3841,3 +3841,159 @@ git push origin master
 : 1723704593:0;cl
 : 1723704596:0;make lab
 : 1723704647:0;make re
+: 1723874050:0;cl
+: 1723874051:0;lls
+: 1723874053:0;ls
+: 1723874055:0;l
+: 1723874542:0;ls
+: 1723874555:0;./backend
+: 1723874563:0;py manage.py runserver
+: 1723874581:0;pip install cryptography
+: 1723874587:0;py manage.py runserver
+: 1723874682:0;./backend
+: 1723874687:0;py manage.py shell
+: 1723878634:0;py manage.py runserver
+: 1723879895:0;ls
+: 1723879898:0;../test
+: 1723879901:0;code -r .
+: 1723879921:0;../test
+: 1723879927:0;py manage.py runserver
+: 1723880125:0;ls
+: 1723880128:0;..
+: 1723880128:0;ls
+: 1723880130:0;./lab
+: 1723880131:0;ls
+: 1723880139:0;mkdir lab2
+: 1723880141:0;./lab2
+: 1723880144:0;code -r .
+: 1723880159:0;	./lab2
+: 1723880160:0;ls
+: 1723880170:0;zshup
+: 1723880173:0;./lab2
+: 1723880174:0;ls
+: 1723880223:0;django-admin startproject backend
+: 1723880226:0;./backend
+: 1723880227:0;ls
+: 1723880233:0;..
+: 1723880234:0;ls
+: 1723880236:0;./backend
+: 1723880236:0;ls
+: 1723880248:0;django-admin startapp login
+: 1723880249:0;ls
+: 1723880252:0;./login
+: 1723880253:0;ls
+: 1723880323:0;..
+: 1723880323:0;ls
+: 1723880326:0;..
+: 1723880327:0;ls
+: 1723880330:0;tree -a
+: 1723880520:0;ls
+: 1723880522:0;./backend
+: 1723880523:0;ls
+: 1723880535:0;py manage.py migrate
+: 1723880553:0;py manage.py runserver
+: 1723880616:0;py manage.py migrate
+: 1723880619:0;py manage.py runserver
+: 1723880856:0;ls
+: 1723880862:0;..
+: 1723880863:0;ls
+: 1723880864:0;..
+: 1723880865:0;ls
+: 1723880879:0;cp -r frontend ./lab2
+: 1723880882:0;./lab2
+: 1723880882:0;ls
+: 1723880897:0;tree -a
+: 1723881155:0;ls
+: 1723881158:0;./backend
+: 1723881159:0;ls
+: 1723881162:0;py manage.py runserver
+: 1723881250:0;ls
+: 1723881312:0;py manage.py runserver
+: 1723884644:0;../test
+: 1723884645:0;ls
+: 1723884648:0;python manage.py shell
+: 1723884654:0;py manage.py shell
+: 1723884665:0;ls
+: 1723884669:0;py manage.py shell
+: 1723884680:0;ls
+: 1723884699:0;..
+: 1723884701:0;./test
+: 1723884702:0;;s
+: 1723884703:0;ls
+: 1723884708:0;../lab
+: 1723884709:0;ls
+: 1723884711:0;./lab2
+: 1723884713:0;ls
+: 1723884718:0;./backend
+: 1723884720:0;sl
+: 1723884720:0;ls
+: 1723884722:0;python manage.py shell
+: 1723884726:0;py manage.py shell
+: 1723884886:0;python manage.py makemigrations
+: 1723884891:0;py manage.py makemigrations
+: 1723884899:0;py manage.py shell
+: 1723884910:0;py manage.py runserver
+: 1723886444:0;ls
+: 1723886451:0;py manage.py runserver
+: 1723890457:0;ls
+: 1723890460:0;py manage.py runserver
+: 1723893994:0;ls
+: 1723893998:0;rm db.sqlite3
+: 1723894006:0;py manage.py migrate
+: 1723894016:0;py manage.py runserver
+: 1723894075:0;ls
+: 1723894080:0;rmf db.sqlite3
+: 1723894086:0;py manage.py migrate
+: 1723894091:0;ls
+: 1723894093:0;pwd
+: 1723894101:0;..
+: 1723894101:0;ls
+: 1723894102:0;..
+: 1723894103:0;ls
+: 1723894109:0;rmf backend
+: 1723894113:0;rmf frontend
+: 1723894114:0;ls
+: 1723894123:0;cp -r ./lab2/backend .
+: 1723894129:0;cp -r ./lab2/frontend .
+: 1723894131:0;ls
+: 1723894137:0;code -r .
+: 1723894156:0;ls
+: 1723894173:0;rmf lab2
+: 1723894174:0;ls
+: 1723894175:0;..
+: 1723894176:0;ls
+: 1723894179:0;rmf test
+: 1723894184:0;ls
+: 1723894257:0;./test
+: 1723894258:0;ls
+: 1723894372:0;./backend
+: 1723894373:0;ls
+: 1723894379:0;py manage.py migrate
+: 1723894385:0;py manage.py runserver
+: 1723894423:0;ls
+: 1723895215:0;./backend
+: 1723895215:0;ls
+: 1723895229:0;python3.9 manage.py runserver
+: 1723895323:0;ls
+: 1723895326:0;./backend
+: 1723895329:0;python3.9 manage.py runserver
+: 1723895397:0;lls
+: 1723895398:0;ls
+: 1723895400:0;..
+: 1723895400:0;ls
+: 1723895402:0;..
+: 1723895403:0;ls
+: 1723895405:0;tree -a
+: 1723895419:0;./lab
+: 1723895420:0;tree -a
+: 1723895530:0;./backend
+: 1723895532:0;pip freeze > requirements.txt
+: 1723895535:0;ls
+: 1723896235:0;./backend
+: 1723896238:0;python3.9 manage.py runserver
+: 1723896448:0;./backend
+: 1723896450:0;python3.9 manage.py runserver
+: 1723896661:0;ls
+: 1723896666:0;rm db.sqlite3
+: 1723896672:0;py manage.py mi
+: 1723896678:0;py manage.py migrate

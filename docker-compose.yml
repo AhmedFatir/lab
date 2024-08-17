@@ -12,8 +12,6 @@ services:
     image: ilab
     container_name: clab
     build: .
-    ports:
-      - "8080:80"
     volumes:
       - vlab:/var/www/html
       - ./lab:/root/lab

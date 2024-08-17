@@ -10,31 +10,73 @@ const form = document.querySelector("form"),
   cPassField = form.querySelector(".confirm-password"),
   cPassInput = cPassField.querySelector(".cPassword");
 
-// Name Validation
-function checkname() {
-  const namePattern = /^(?=.*[a-z])/;
+// CSRF token helper function
+function getCSRFToken() {
+    let cookieValue = null;
+    if (document.cookie && document.cookie !== '') {
+        const cookies = document.cookie.split(';');
+        for (let i = 0; i < cookies.length; i++) {
+            const cookie = cookies[i].trim();
+            if (cookie.substring(0, 'csrftoken'.length + 1) === ('csrftoken' + '=')) {
+                cookieValue = decodeURIComponent(cookie.substring('csrftoken'.length + 1));
+                break;
+            }
+        }
+    }
+    return cookieValue;
+}
+
+// Add the CSRF token to the form
+const csrfToken = getCSRFToken();
+const csrfInput = document.createElement('input');
+csrfInput.type = 'hidden';
+csrfInput.name = 'csrfmiddlewaretoken';
+csrfInput.value = csrfToken;
+form.appendChild(csrfInput);
+
+// Validation functions
+function checkName() {
+  const namePattern = /^[a-zA-Z\s]+$/;
   if (!nameInput.value.match(namePattern)) {
-    return nameField.classList.add("invalid");
+    nameField.classList.add("invalid");
+  } else {
+    nameField.classList.remove("invalid");
   }
-  nameField.classList.remove("invalid");
 }
 
-// Username Validation
-function checkusername() {
-  const usernamePattern = /^(?=.*[a-z]{2,3}$)/;
+function checkUsername() {
+  const usernamePattern = /^[a-zA-Z0-9_]+$/;
   if (!usernameInput.value.match(usernamePattern)) {
-    return usernameField.classList.add("invalid");
+    usernameField.classList.add("invalid");
+  } else {
+    usernameField.classList.remove("invalid");
   }
-  usernameField.classList.remove("invalid");
 }
 
-// Email Validation
 function checkEmail() {
-  const emaiPattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
-  if (!emailInput.value.match(emaiPattern)) {
-    return emailField.classList.add("invalid");
+  const emailPattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
+  if (!emailInput.value.match(emailPattern)) {
+    emailField.classList.add("invalid");
+  } else {
+    emailField.classList.remove("invalid");
   }
-  emailField.classList.remove("invalid");
+}
+
+function createPass() {
+  const passPattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
+  if (!passInput.value.match(passPattern)) {
+    passField.classList.add("invalid");
+  } else {
+    passField.classList.remove("invalid");
+  }
+}
+
+function confirmPass() {
+  if (passInput.value !== cPassInput.value || cPassInput.value === "") {
+    cPassField.classList.add("invalid");
+  } else {
+    cPassField.classList.remove("invalid");
+  }
 }
 
 // Hide and show password
@@ -45,55 +87,30 @@ eyeIcons.forEach((eyeIcon) => {
     const pInput = eyeIcon.parentElement.querySelector("input");
     if (pInput.type === "password") {
       eyeIcon.classList.replace("bx-hide", "bx-show");
-      return (pInput.type = "text");
+      pInput.type = "text";
+    } else {
+      eyeIcon.classList.replace("bx-show", "bx-hide");
+      pInput.type = "password";
     }
-    eyeIcon.classList.replace("bx-show", "bx-hide");
-    pInput.type = "password";
   });
 });
 
-// Password Validation
-function createPass() {
-  const passPattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
-
-  if (!passInput.value.match(passPattern)) {
-    return passField.classList.add("invalid");
-  }
-  passField.classList.remove("invalid");
-}
-
-// Confirm Password Validation
-function confirmPass() {
-  if (passInput.value !== cPassInput.value || cPassInput.value === "") {
-    return cPassField.classList.add("invalid");
-  }
-  cPassField.classList.remove("invalid");
-}
-
-// Calling Function on Form Submit
+// Call validation on form submission
 form.addEventListener("submit", (e) => {
-  e.preventDefault(); //preventing form submitting
+  checkName();
+  checkUsername();
   checkEmail();
-  checkname();
-  checkusername();
   createPass();
   confirmPass();
 
-  //calling function on key up
-  nameInput.addEventListener("keyup", checkname);
-  usernameInput.addEventListener("keyup", checkusername);
-  emailInput.addEventListener("keyup", checkEmail);
-  passInput.addEventListener("keyup", createPass);
-  cPassInput.addEventListener("keyup", confirmPass);
-
+  // Prevent form submission if there are invalid fields
   if (
-    !usernameField.classList.contains("invalid") &&
-    !nameField.classList.contains("invalid") &&
-    !emailField.classList.contains("invalid") &&
-    !passField.classList.contains("invalid") &&
-    !cPassField.classList.contains("invalid")
+    nameField.classList.contains("invalid") ||
+    usernameField.classList.contains("invalid") ||
+    emailField.classList.contains("invalid") ||
+    passField.classList.contains("invalid") ||
+    cPassField.classList.contains("invalid")
   ) {
-    // Redirect to the welcome page after successful sign-up
-    window.location.href = '/welcome/';
+    e.preventDefault();
   }
 });
