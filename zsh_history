@@ -4138,3 +4138,46 @@ git push origin master
 : 1724041743:0;code -r .
 : 1724041759:0;ls
 : 1724041766:0;pymr
+: 1724137321:0;ls
+: 1724137330:0;pymr
+: 1724137428:0;pym createsuperuser
+: 1724137496:0;pym makemigration
+: 1724137504:0;pym makemigrations
+: 1724137533:0;pymm
+: 1724137555:0;pym createsuperuser
+: 1724137629:0;pymr
+: 1724138590:0;pym makemigrations
+: 1724138760:0;pym sql app
+: 1724138832:0;pym sqlmigrate app 0001
+: 1724138927:0;pymmm
+: 1724138932:0;pymm
+: 1724138944:0;pymr
+: 1724138991:0;pym shell
+: 1724140996:0;pymm
+: 1724141001:0;pymr
+: 1724146280:0;pym startapp users
+: 1724149389:0;cl
+: 1724150382:0;pymr
+: 1724153685:0;pip3 install django-crispy-forms
+: 1724153859:0;pymr
+: 1724154002:0;pymm
+: 1724154169:0;pymr
+: 1724154484:0;pip install django-bootstrap4
+: 1724154514:0;pymr
+: 1724154674:0;lpip install django-crispy-forms
+: 1724154676:0;pip install django-crispy-forms
+: 1724154762:0;pip uninstall django-crispy-forms
+: 1724154773:0;pip install django-crispy-forms
+: 1724154823:0;pymr
+: 1724155152:0;pip install crispy_bootstrap4
+: 1724155235:0;pip install crispy_bootstrap5
+: 1724155484:0;ls
+: 1724155814:0;pymr
+: 1724155847:0;ls
+: 1724155851:0;rmf db.sqlite3
+: 1724155854:0;ls
+: 1724155858:0;pymm
+: 1724155864:0;pymr
+: 1724155911:0;pym createsuperuser
+: 1724155970:0;pymr
+: 1724156248:0;ls

@@ -2,9 +2,10 @@ FROM debian:bullseye
 
 RUN apt-get update && apt-get upgrade -y
 
-RUN apt-get install -y netcat vim nginx zsh curl wget git iputils-ping \
-    python3 python3-pip python3-venv \
-    procps apt-utils net-tools tree
+RUN apt-get install -y \
+netcat vim nginx zsh curl wget git iputils-ping \
+procps apt-utils net-tools tree \
+python3 python3-pip python3-venv
 
 # Set zsh as the default shell
 RUN chsh -s $(which zsh)
@@ -19,10 +20,13 @@ COPY ./zsh_history /root/.zsh_history
 COPY ./lab /root/lab
 
 # Install Django globally
-RUN pip3 install django
-RUN pip3 install django-allauth
-RUN pip3 install requests
-RUN pip3 install PyJWT
+RUN pip3 install \
+django \
+django-allauth \
+requests \
+PyJWT \
+django-crispy-forms \
+crispy_bootstrap4
 
 # Keep the container running
 CMD ["tail", "-f", "/dev/null"]
