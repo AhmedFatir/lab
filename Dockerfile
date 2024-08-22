@@ -26,7 +26,8 @@ django-allauth \
 requests \
 PyJWT \
 django-crispy-forms \
-crispy_bootstrap4
+crispy_bootstrap4 \
+Pillow
 
 # Keep the container running
 CMD ["tail", "-f", "/dev/null"]

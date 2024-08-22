@@ -4181,3 +4181,58 @@ git push origin master
 : 1724155911:0;pym createsuperuser
 : 1724155970:0;pymr
 : 1724156248:0;ls
+: 1724281379:0;cd
+: 1724281379:0;ls
+: 1724281382:0;./ft_irc
+: 1724281384:0;code -r .
+: 1724281402:0;make fclean
+: 1724281404:0;make
+: 1724281415:0;ip addr
+: 1724281441:0;ip addr | grep inet
+: 1724281485:0;./ircserv 4444 123
+: 1724281541:0;ip addr | grep inet
+: 1724281640:0;make
+: 1724286738:0;ls
+: 1724286744:0;pymr
+: 1724290824:0;ls
+: 1724290827:0;pymr
+: 1724294282:0;pymm
+: 1724294322:0;python -m pip install Pillow
+: 1724294329:0;pip install Pillow
+: 1724294350:0;pymm
+: 1724294386:0;manage.py makemigrations
+: 1724294398:0;ls
+: 1724294408:0;pym makemigrations
+: 1724294413:0;pymm
+: 1724294417:0;pymr
+: 1724294703:0;pym shell
+: 1724295001:0;pymr
+: 1724296180:0;pymm
+: 1724296186:0;prmt
+: 1724296189:0;pymr
+: 1724296738:0;pym makemigrations
+: 1724296741:0;pymm
+: 1724296748:0;pymr
+: 1724296819:0;pym makemigrations
+: 1724296828:0;/usr/bin/python3 /root/lab/project/users/migrations/0002_alter_profile_image.py
+: 1724296850:0;pym makemigrations
+: 1724296857:0;pymr
+: 1724298181:0;pym shell
+: 1724298434:0;pymr
+: 1724299419:0;pym makemigrations
+: 1724299557:0;pymm
+: 1724299562:0;pymr
+: 1724300574:0;pym makemigrations
+: 1724300578:0;pymm
+: 1724300905:0;pymr
+: 1724301181:0;pym shell
+: 1724301473:0;pymr
+: 1724301517:0;python manage.py check
+: 1724301524:0;pym check
+: 1724301647:0;pym shell
+: 1724301692:0;pymm
+: 1724301699:0;pym makemessages
+: 1724301710:0;pym makemigrations
+: 1724301715:0;pymm
+: 1724301722:0;pymr
+: 1724304126:0;ls
