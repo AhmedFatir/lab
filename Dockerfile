@@ -20,14 +20,6 @@ COPY ./zsh_history /root/.zsh_history
 COPY ./lab /root/lab
 
 # Install Django globally
-RUN pip3 install \
-django \
-django-allauth \
-requests \
-PyJWT \
-django-crispy-forms \
-crispy_bootstrap4 \
-Pillow
+RUN pip install --no-cache-dir -r /root/lab/project/requirements.txt
 
-# Keep the container running
 CMD ["tail", "-f", "/dev/null"]
