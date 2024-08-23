@@ -1,0 +1,5 @@
+zsh_history
+.vscode
+./lab/project/db.sqlite3
+./lab/project/post.json
+./lab/login/backend/db.sqlite3
