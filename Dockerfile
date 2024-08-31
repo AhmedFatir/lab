@@ -4,7 +4,7 @@ RUN apt-get update && apt-get upgrade -y
 
 RUN apt-get install -y \
 netcat vim nginx zsh curl wget git iputils-ping \
-procps apt-utils net-tools tree \
+procps apt-utils net-tools tree jq \
 python3 python3-pip python3-venv
 
 # Set zsh as the default shell

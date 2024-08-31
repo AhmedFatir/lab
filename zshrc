@@ -9,6 +9,8 @@ source $ZSH/oh-my-zsh.sh
 
 alias zshup='source /root/.zshrc'
 alias rmf='rm -rf'
+alias co='code .'
+alias cor='code -r .'
 alias py='python3.9'
 alias pym='python3.9 manage.py'
 alias pymm='python3.9 manage.py migrate'

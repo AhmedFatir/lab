@@ -12,6 +12,8 @@ services:
     image: ilab
     container_name: clab
     build: .
+    env_file:
+      - .env
     volumes:
       - vlab:/var/www/html
       - ./lab:/root/lab
