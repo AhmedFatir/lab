@@ -8,15 +8,12 @@ run:
 	@docker-compose up -d
 
 clean:
-	@docker stop clab || true
-	@docker rm clab || true
-	@docker rmi -f ilab || true
-	@docker volume rm vlab || true
-	@docker network rm nlab || true
+	@docker stop $$(docker ps -qa) || true
+	@docker rm $$(docker ps -qa) || true
+	@docker rmi -f $$(docker images -qa) || true
+	@docker volume rm $$(docker volume ls -q) || true
+	@docker network rm $$(docker network ls -q) || true
 
 re: clean all
 
-lab:
-	@docker exec -it clab /bin/zsh
-
-.PHONY: all build run clean re lab
+.PHONY: all build run clean re
